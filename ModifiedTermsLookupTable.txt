@@ -1,0 +1,32 @@
+fault	aghast	-2
+against	aghast	-3
+wrong	aghast	-2
+argument	abject	-2
+argue	abject	-2
+confuse	abject	-2
+confusion	abject	-2
+error	abject	-2
+expose	abject	-2
+fail	abject	-2
+fault	abject	-2
+kill	abject	-2
+killing	abject	-2
+lazy	abject	-2
+mock	abject	-2
+mocker	abject	-2
+mocking	abject	-2
+mocks	abject	-2
+poor	abject	-2
+problem	abject	-2
+wrong	abject	-2
+kind	good	2
+like	good	2
+relax	good	2
+special	good	2
+super	good	2
+useful	good	2
+concern	bad	-2
+incorrect	abject	-3
+miss	-2
+missed	-2
+missing	-2
