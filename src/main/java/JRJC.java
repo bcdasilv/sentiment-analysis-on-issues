@@ -40,22 +40,35 @@ public class JRJC {
     searchClient = restClient.getSearchClient();
 
     BufferedWriter writer = Files.newBufferedWriter(Paths.get(SAMPLE_CSV_FILE));
-    csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader("ID", "comment"));
+    csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader("ID", "history", "reopenings", "score"));
   }
 
   public static void main(String[] args) throws Exception {
 
     setup();
     SSWrapper ssWrapper = new SSWrapper();
-    Promise<SearchResult> search = searchClient.searchJql("project = ZOOKEEPER ORDER BY created DESC");
+    Promise<SearchResult> search = searchClient.searchJql("project = ZOOKEEPER ORDER BY created DESC", 200, 0);
+    runSearch(search, ssWrapper);
+    search = searchClient.searchJql("project = QPID ORDER BY created DESC", 200, 0);
+    runSearch(search, ssWrapper);
+    search = searchClient.searchJql("project = CRUNCH ORDER BY created DESC", 200, 0);
+    runSearch(search, ssWrapper);
+    search = searchClient.searchJql("project = COCOON ORDER BY created DESC", 200, 0);
+    runSearch(search, ssWrapper);
+    search = searchClient.searchJql("project = CLOUDSTACK ORDER BY created DESC", 200, 0);
+    runSearch(search, ssWrapper);
+  }
 
+
+  private static void runSearch(Promise<SearchResult> search, SSWrapper ssWrapper) throws Exception {
     int i = 0;
     for (Issue issue: search.claim().getIssues()) {
 
       String changes = "";
       String comments = "";
+      int reopenings = 0;
 
-      if(i > 10) {
+      if(i > 200) {
         break;
       }
 
@@ -79,6 +92,9 @@ public class JRJC {
           if(clItem.getField().equals("status")) {
             changes += "Date: "+ group.getCreated()
                 + ", From: " + clItem.getFromString() + " To: " + clItem.getToString();
+            if(clItem.getToString().equals("Open") || clItem.getToString().equals("Reopened")) {
+              reopenings++;
+            }
           }
         }
       }
@@ -90,10 +106,12 @@ public class JRJC {
       int num2 = scan.nextInt();
 
       i++;
-      csvPrinter.printRecord(issue.getKey(), changes, processed, num1 + ", " + num2);
+      csvPrinter.printRecord(issue.getKey(), changes, reopenings, num1 + ", " + num2);
     }
 
     csvPrinter.flush();
+    System.out.println("done!");
+
   }
 
 }
