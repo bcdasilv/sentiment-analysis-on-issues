@@ -1,7 +1,9 @@
 # Senior-Project
 This is my senior project for running sentiment analysis on commit messages for Jira projects.  This package includes the code that I wrote for obtaining the data from Jira to run the analysis.
 
-There were a few APIs that I tried out for querying Jira, but [JRJC (Jira REST Java Client)](https://docs.atlassian.com/jira-rest-java-client-api/2.0.0-m31/jira-rest-java-client-api/apidocs/) was the one that worked best for me.  It is a bit wonky and weird to use, but I was able to get it work well enough.  Here's a walkthrough of the JRJC.java class that explains how it works:
+There were a few APIs that I tried out for querying Jira, but [JRJC (Jira REST Java Client)](https://docs.atlassian.com/jira-rest-java-client-api/2.0.0-m31/jira-rest-java-client-api/apidocs/) was the one that worked best for me.  It is a bit wonky and weird to use, but I was able to get it work well enough.  
+
+All the magic happens in `JRJC.java` and `SSWrapper.java`.  Here's a walkthrough of the code:
 
 ## `setup()`
 The `setup()` method sets up the Jira client and creates a new CSV file to dump the data.  Notice that the `createWithBasicHttpAuthentication()` call requires your Jira username and password.  If you don't have a Jira account, signing up is free and easy.
