@@ -14,8 +14,7 @@ public class SSWrapper {
     this.ss = new SentiStrength();
     this.util = new FileUtility();
 
-    String init[] = {"sentidata", "/home/jonathan/Downloads/SentiStrength-SE_v1.5/ConfigFiles/",
-        "explain"};
+    String init[] = {"sentidata", "/path/to/config/files", "explain"};
     this.ss.initialise(init);
 
     this.termsMap = util.GetModifiedTermsMap("ModifiedTermsLookupTable.txt");

@@ -35,49 +35,38 @@ public class JRJC {
     URI serverUri = new URI("https://issues.apache.org/jira");
     JiraRestClientFactory factory = new AsynchronousJiraRestClientFactory();
 
-    JiraRestClient restClient = factory.createWithBasicHttpAuthentication(serverUri, "jcheruve", "123oiu");
+    JiraRestClient restClient = factory.createWithBasicHttpAuthentication(serverUri, "yourUsername", "yourPassword");
     issueClient = restClient.getIssueClient();
     searchClient = restClient.getSearchClient();
 
     BufferedWriter writer = Files.newBufferedWriter(Paths.get(SAMPLE_CSV_FILE));
-    csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader("ID", "history", "reopenings", "score"));
+    csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader("ID", "date", "history", "reopenings", "comments", "numWords", "score1", "score2"));
   }
 
   public static void main(String[] args) throws Exception {
 
     setup();
     SSWrapper ssWrapper = new SSWrapper();
-    Promise<SearchResult> search = searchClient.searchJql("project = ZOOKEEPER ORDER BY created DESC", 200, 0);
-    runSearch(search, ssWrapper);
-    search = searchClient.searchJql("project = QPID ORDER BY created DESC", 200, 0);
-    runSearch(search, ssWrapper);
-    search = searchClient.searchJql("project = CRUNCH ORDER BY created DESC", 200, 0);
-    runSearch(search, ssWrapper);
-    search = searchClient.searchJql("project = COCOON ORDER BY created DESC", 200, 0);
-    runSearch(search, ssWrapper);
-    search = searchClient.searchJql("project = CLOUDSTACK ORDER BY created DESC", 200, 0);
+    Promise<SearchResult> search = searchClient.searchJql("project = HADOOP ORDER BY created DESC", 1000, 0);
     runSearch(search, ssWrapper);
   }
 
 
   private static void runSearch(Promise<SearchResult> search, SSWrapper ssWrapper) throws Exception {
-    int i = 0;
     for (Issue issue: search.claim().getIssues()) {
 
       String changes = "";
       String comments = "";
       int reopenings = 0;
-
-      if(i > 200) {
-        break;
-      }
-
-      System.out.println(issue.getKey());
+      int numComments = 0;
 
       issue = issueClient.getIssue(issue.getKey(), expand).claim();
       for (Comment comment : issue.getComments()) {
         comments += comment;
+        numComments++;
       }
+
+      String date = issue.getCreationDate().toLocalDate().toString();
 
       Iterable<ChangelogGroup> changelog = issue.getChangelog();
 
@@ -101,16 +90,15 @@ public class JRJC {
 
       String processed = ssWrapper.process(comments);
       String scored = ssWrapper.compute(processed);
+      int numWords = scored.split("\\s+").length;
       Scanner scan = new Scanner(scored);
       int num1 = scan.nextInt();
       int num2 = scan.nextInt();
 
-      i++;
-      csvPrinter.printRecord(issue.getKey(), changes, reopenings, num1 + ", " + num2);
-    }
+      csvPrinter.printRecord(issue.getKey(), date, changes, reopenings, numComments, numWords, num1, num2);
+      csvPrinter.flush();
 
-    csvPrinter.flush();
-    System.out.println("done!");
+    }
 
   }
 
