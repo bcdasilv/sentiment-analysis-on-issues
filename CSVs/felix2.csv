@@ -1,0 +1,887 @@
+ID,date,history,reopenings,comments,numWords,score1,score2
+FELIX-3723,2012-10-18,"Date: 2012-10-19T06:23:29.593-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.144-08:00, From: Resolved To: Closed",0,2,66,1,-2
+FELIX-3722,2012-10-18,"Date: 2012-10-18T02:36:25.931-07:00, From: Open To: Resolved",0,2,38,1,-1
+FELIX-3721,2012-10-17,"Date: 2012-10-18T02:32:57.232-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:54.273-07:00, From: Resolved To: Closed",0,3,149,1,-1
+FELIX-3720,2012-10-17,"Date: 2012-10-18T05:32:53.150-07:00, From: Open To: ResolvedDate: 2012-10-18T05:43:07.504-07:00, From: Resolved To: Closed",0,5,160,2,-1
+FELIX-3719,2012-10-17,"Date: 2012-10-17T23:23:16.525-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.369-08:00, From: Resolved To: Closed",0,2,24,1,-1
+FELIX-3718,2012-10-17,"Date: 2012-10-17T23:20:46.209-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.076-08:00, From: Resolved To: Closed",0,2,49,1,-2
+FELIX-3717,2012-10-17,"Date: 2012-10-17T23:22:45.061-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.674-08:00, From: Resolved To: Closed",0,2,51,1,-1
+FELIX-3716,2012-10-17,"Date: 2012-11-27T21:10:54.075-08:00, From: Open To: ResolvedDate: 2012-12-07T08:17:55.456-08:00, From: Resolved To: Closed",0,3,295,2,-1
+FELIX-3715,2012-10-17,"Date: 2012-12-11T13:21:47.686-08:00, From: Open To: ResolvedDate: 2012-12-13T10:43:44.157-08:00, From: Resolved To: Closed",0,6,233,3,-1
+FELIX-3714,2012-10-17,"Date: 2013-12-06T02:14:43.933-08:00, From: Open To: ResolvedDate: 2015-03-16T23:57:50.099-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3713,2012-10-16,"Date: 2013-02-01T13:05:11.536-08:00, From: Open To: Resolved",0,7,736,3,-1
+FELIX-3712,2012-10-16,"Date: 2013-12-06T01:49:15.732-08:00, From: Open To: ResolvedDate: 2015-03-16T23:58:03.260-07:00, From: Resolved To: Closed",0,5,483,2,-1
+FELIX-3711,2012-10-13,,0,15,1625,3,-3
+FELIX-3710,2012-10-12,"Date: 2012-10-17T23:25:36.610-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.695-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3709,2012-10-12,"Date: 2012-10-12T09:25:00.391-07:00, From: Open To: ResolvedDate: 2012-10-12T09:25:32.361-07:00, From: Resolved To: Closed",0,4,61,1,-3
+FELIX-3708,2012-10-11,"Date: 2012-11-29T15:57:44.616-08:00, From: Open To: ResolvedDate: 2014-09-04T01:04:12.464-07:00, From: Resolved To: Closed",0,4,227,2,-1
+FELIX-3707,2012-10-11,"Date: 2012-10-17T09:40:17.716-07:00, From: Open To: ResolvedDate: 2012-10-17T12:56:01.127-07:00, From: Resolved To: Closed",0,5,302,2,-2
+FELIX-3706,2012-10-10,"Date: 2012-10-10T08:16:16.065-07:00, From: Open To: Resolved",0,1,34,1,-1
+FELIX-3705,2012-10-09,"Date: 2012-10-18T03:12:42.903-07:00, From: Open To: ResolvedDate: 2014-02-16T23:53:10.350-08:00, From: Resolved To: Closed",0,3,57,1,-1
+FELIX-3704,2012-10-09,"Date: 2012-10-25T16:57:24.925-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.360-08:00, From: Resolved To: Closed",0,4,109,1,-1
+FELIX-3703,2012-10-07,"Date: 2012-10-11T06:17:56.163-07:00, From: Open To: Resolved",0,6,239,1,-2
+FELIX-3702,2012-10-05,"Date: 2012-10-07T13:45:30.547-07:00, From: Open To: Closed",0,3,102,1,-1
+FELIX-3701,2012-10-05,"Date: 2014-03-26T07:28:43.422-07:00, From: Open To: ResolvedDate: 2014-07-30T00:16:55.734-07:00, From: Resolved To: Closed",0,9,722,2,-2
+FELIX-3700,2012-10-04,"Date: 2012-10-19T13:25:48.676-07:00, From: Open To: Resolved",0,19,1888,2,-3
+FELIX-3699,2012-10-03,"Date: 2013-04-10T05:09:58.956-07:00, From: Open To: ResolvedDate: 2013-05-27T21:10:21.535-07:00, From: Resolved To: Closed",0,8,590,2,-2
+FELIX-3698,2012-10-02,"Date: 2012-10-17T23:34:36.736-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.246-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3697,2012-10-02,"Date: 2012-10-05T11:44:29.388-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.396-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3696,2012-10-02,,0,5,604,1,-3
+FELIX-3695,2012-10-01,"Date: 2015-03-10T01:36:08.846-07:00, From: Open To: ResolvedDate: 2015-03-16T01:19:37.448-07:00, From: Resolved To: Closed",0,4,123,1,-1
+FELIX-3694,2012-09-30,"Date: 2012-09-30T04:37:20.974-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:59.235-07:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3693,2012-09-30,"Date: 2012-10-05T11:36:50.104-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.793-07:00, From: Resolved To: Closed",0,1,38,1,-1
+FELIX-3692,2012-09-29,"Date: 2012-12-15T22:00:32.240-08:00, From: Open To: ResolvedDate: 2014-09-04T01:04:11.038-07:00, From: Resolved To: Closed",0,3,148,2,-2
+FELIX-3691,2012-09-28,"Date: 2012-09-28T08:49:49.097-07:00, From: Open To: Resolved",0,1,23,1,-1
+FELIX-3690,2012-09-28,,0,0,2,1,-1
+FELIX-3689,2012-09-28,"Date: 2012-09-28T00:57:10.885-07:00, From: Open To: ResolvedDate: 2012-10-04T01:53:29.143-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3688,2012-09-27,,0,1,124,1,-1
+FELIX-3687,2012-09-27,"Date: 2014-03-13T01:25:48.016-07:00, From: Open To: Resolved",0,4,407,2,-3
+FELIX-3686,2012-09-27,"Date: 2013-12-05T15:01:51.293-08:00, From: Open To: ResolvedDate: 2015-03-16T23:58:15.719-07:00, From: Resolved To: Closed",0,1,35,1,-1
+FELIX-3685,2012-09-27,,0,3,195,1,-1
+FELIX-3684,2012-09-26,"Date: 2012-09-27T12:36:09.606-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:02.393-07:00, From: Resolved To: Closed",0,5,198,1,-1
+FELIX-3683,2012-09-26,"Date: 2012-09-26T11:07:39.820-07:00, From: Open To: Resolved",0,2,46,1,-1
+FELIX-3682,2012-09-26,"Date: 2012-09-26T06:22:19.280-07:00, From: Open To: Closed",0,2,133,2,-1
+FELIX-3681,2012-09-25,"Date: 2012-10-17T23:54:33.210-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.148-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3680,2012-09-24,"Date: 2013-03-30T23:23:06.297-07:00, From: Open To: Closed",0,42,6849,3,-3
+FELIX-3679,2012-09-23,"Date: 2012-09-24T01:14:28.740-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.555-08:00, From: Resolved To: Closed",0,2,32,1,-1
+FELIX-3678,2012-09-22,"Date: 2013-05-28T03:07:19.023-07:00, From: Open To: ResolvedDate: 2014-04-01T05:46:56.937-07:00, From: Resolved To: Closed",0,2,34,1,-1
+FELIX-3677,2012-09-21,"Date: 2012-09-26T09:34:12.297-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.654-08:00, From: Resolved To: Closed",0,2,24,1,-1
+FELIX-3676,2012-09-21,"Date: 2012-09-26T09:33:28.897-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.488-08:00, From: Resolved To: Closed",0,2,24,1,-1
+FELIX-3675,2012-09-21,"Date: 2012-10-17T23:24:58.108-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.464-08:00, From: Resolved To: Closed",0,3,47,1,-1
+FELIX-3674,2012-09-21,"Date: 2012-10-11T01:33:07.232-07:00, From: Open To: Resolved",0,21,790,2,-2
+FELIX-3673,2012-09-20,,0,0,2,1,-1
+FELIX-3672,2012-09-20,"Date: 2012-09-20T06:03:42.769-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:20.073-08:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3671,2012-09-19,,0,1,27,1,-1
+FELIX-3670,2012-09-17,"Date: 2012-09-19T08:44:36.952-07:00, From: Open To: Resolved",0,1,26,1,-1
+FELIX-3669,2012-09-17,"Date: 2012-09-30T03:34:30.952-07:00, From: Open To: ResolvedDate: 2015-01-05T01:47:47.342-08:00, From: Resolved To: Closed",0,3,33,1,-1
+FELIX-3668,2012-09-17,"Date: 2012-10-17T23:52:57.373-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.209-08:00, From: Resolved To: Closed",0,2,24,1,-1
+FELIX-3667,2012-09-15,"Date: 2012-09-16T04:48:32.638-07:00, From: Open To: Resolved",0,2,92,1,-2
+FELIX-3666,2012-09-14,"Date: 2012-09-21T07:31:44.817-07:00, From: Open To: ResolvedDate: 2012-12-07T02:26:02.821-08:00, From: Resolved To: ReopenedDate: 2012-12-07T03:47:24.590-08:00, From: Reopened To: ResolvedDate: 2013-06-06T08:34:56.580-07:00, From: Resolved To: Closed",1,8,240,1,-1
+FELIX-3665,2012-09-14,,0,1,97,1,-1
+FELIX-3664,2012-09-14,,0,3,179,2,-1
+FELIX-3663,2012-09-13,"Date: 2012-09-30T03:45:14.815-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:56.740-07:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3662,2012-09-11,"Date: 2012-10-17T23:55:05.837-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.083-08:00, From: Resolved To: Closed",0,2,32,1,-1
+FELIX-3661,2012-09-11,"Date: 2012-09-13T01:16:13.604-07:00, From: Open To: ClosedDate: 2012-09-13T08:42:08.340-07:00, From: Closed To: ReopenedDate: 2012-09-17T04:57:14.126-07:00, From: Reopened To: Closed",1,15,1789,2,-3
+FELIX-3660,2012-09-07,"Date: 2012-09-27T14:32:03.583-07:00, From: Open To: Resolved",0,4,79,2,-1
+FELIX-3659,2012-09-06,"Date: 2012-09-28T18:05:57.187-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.423-08:00, From: Resolved To: Closed",0,4,224,1,-1
+FELIX-3658,2012-09-06,"Date: 2012-10-17T23:54:06.087-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.532-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3657,2012-09-06,"Date: 2012-09-28T18:04:19.827-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.205-08:00, From: Resolved To: Closed",0,4,92,2,-1
+FELIX-3656,2012-09-06,"Date: 2015-08-07T01:37:47.710-07:00, From: Open To: ResolvedDate: 2015-09-23T05:56:34.532-07:00, From: Resolved To: Closed",0,2,81,1,-1
+FELIX-3655,2012-09-04,,0,0,2,1,-1
+FELIX-3654,2012-09-03,"Date: 2012-09-03T10:20:09.575-07:00, From: Open To: Closed",0,3,164,1,-1
+FELIX-3653,2012-09-03,"Date: 2012-09-04T11:01:52.393-07:00, From: Open To: ResolvedDate: 2012-12-07T02:25:55.698-08:00, From: Resolved To: Closed",0,1,27,1,-1
+FELIX-3652,2012-09-03,,0,6,577,1,-4
+FELIX-3651,2012-09-02,"Date: 2013-10-15T16:48:10.815-07:00, From: Open To: ResolvedDate: 2013-10-15T16:48:16.680-07:00, From: Resolved To: Closed",0,4,188,2,-1
+FELIX-3650,2012-09-02,"Date: 2012-09-02T19:18:27.920-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.217-08:00, From: Resolved To: Closed",0,2,33,1,-1
+FELIX-3649,2012-09-02,"Date: 2012-09-02T20:08:03.292-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.829-08:00, From: Resolved To: Closed",0,2,35,1,-1
+FELIX-3648,2012-09-02,"Date: 2012-09-02T20:00:10.246-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.383-08:00, From: Resolved To: Closed",0,2,121,1,-2
+FELIX-3647,2012-09-02,"Date: 2012-09-02T19:56:36.581-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.852-08:00, From: Resolved To: Closed",0,2,73,1,-1
+FELIX-3646,2012-09-02,"Date: 2012-09-02T18:04:59.244-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.181-08:00, From: Resolved To: Closed",0,2,44,1,-1
+FELIX-3645,2012-09-02,"Date: 2012-11-27T21:51:50.539-08:00, From: Open To: ResolvedDate: 2012-11-27T23:15:34.282-08:00, From: Resolved To: Closed",0,8,626,2,-2
+FELIX-3644,2012-08-31,,0,3,163,1,-1
+FELIX-3643,2012-08-31,"Date: 2012-11-28T07:50:32.014-08:00, From: Open To: ResolvedDate: 2012-12-07T02:25:56.296-08:00, From: Resolved To: Closed",0,7,355,2,-1
+FELIX-3642,2012-08-31,"Date: 2012-08-31T01:15:57.995-07:00, From: Open To: ResolvedDate: 2012-12-07T02:25:55.791-08:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3641,2012-08-31,"Date: 2012-08-31T01:00:59.584-07:00, From: Open To: ResolvedDate: 2012-12-07T02:25:55.978-08:00, From: Resolved To: Closed",0,2,43,1,-1
+FELIX-3640,2012-08-30,"Date: 2012-08-30T09:26:08.769-07:00, From: Open To: ResolvedDate: 2012-12-07T02:25:55.500-08:00, From: Resolved To: ClosedDate: 2013-06-13T22:19:45.027-07:00, From: Closed To: ReopenedDate: 2013-06-13T22:36:49.582-07:00, From: Reopened To: Closed",1,3,40,1,-1
+FELIX-3639,2012-08-27,"Date: 2012-08-28T09:48:50.873-07:00, From: Open To: ClosedDate: 2012-09-05T14:32:03.809-07:00, From: Closed To: ReopenedDate: 2012-09-05T14:32:28.793-07:00, From: Reopened To: ResolvedDate: 2012-11-20T02:58:14.855-08:00, From: Resolved To: Closed",1,6,144,3,-1
+FELIX-3638,2012-08-26,"Date: 2013-01-15T10:19:55.994-08:00, From: Open To: ResolvedDate: 2013-06-12T16:46:24.716-07:00, From: Resolved To: Closed",0,3,95,1,-1
+FELIX-3637,2012-08-24,"Date: 2012-10-05T11:45:46.461-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.680-08:00, From: Resolved To: Closed",0,2,35,1,-1
+FELIX-3636,2012-08-24,"Date: 2013-01-25T04:51:03.213-08:00, From: Open To: ResolvedDate: 2013-02-18T00:05:29.146-08:00, From: Resolved To: Closed",0,5,372,1,-2
+FELIX-3635,2012-08-23,"Date: 2012-08-28T06:18:55.061-07:00, From: Open To: ResolvedDate: 2015-03-16T23:58:21.763-07:00, From: Resolved To: Closed",0,3,56,1,-1
+FELIX-3634,2012-08-21,,0,1,26,1,-1
+FELIX-3633,2012-08-21,"Date: 2015-03-10T02:59:21.337-07:00, From: Open To: ResolvedDate: 2015-03-16T01:29:16.092-07:00, From: Resolved To: Closed",0,3,38,1,-1
+FELIX-3632,2012-08-21,"Date: 2012-11-29T19:57:06.134-08:00, From: Open To: Closed",0,1,26,1,-1
+FELIX-3631,2012-08-20,"Date: 2013-02-24T08:59:04.519-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:03.208-07:00, From: Resolved To: Closed",0,1,75,1,-2
+FELIX-3630,2012-08-15,"Date: 2012-11-07T11:49:55.433-08:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.208-07:00, From: Resolved To: Closed",0,5,412,2,-2
+FELIX-3629,2012-08-15,,0,0,2,1,-1
+FELIX-3628,2012-08-15,,0,0,2,1,-1
+FELIX-3627,2012-08-13,,0,0,2,1,-1
+FELIX-3626,2012-08-12,"Date: 2012-09-03T05:23:23.372-07:00, From: Open To: ResolvedDate: 2012-09-03T09:19:13.909-07:00, From: Resolved To: Closed",0,6,290,2,-2
+FELIX-3625,2012-08-09,"Date: 2012-09-02T16:43:32.680-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.038-08:00, From: Resolved To: Closed",0,3,60,1,-1
+FELIX-3624,2012-08-08,,0,13,471,2,-2
+FELIX-3623,2012-08-08,"Date: 2012-08-08T01:51:45.484-07:00, From: Open To: Resolved",0,2,54,2,-1
+FELIX-3622,2012-08-06,"Date: 2012-08-06T05:15:43.968-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.889-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3621,2012-08-03,"Date: 2012-09-20T02:15:28.617-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:31.196-08:00, From: Resolved To: Closed",0,6,270,3,-3
+FELIX-3620,2012-08-02,"Date: 2012-08-12T21:04:12.550-07:00, From: Open To: ResolvedDate: 2015-04-23T06:32:44.243-07:00, From: Resolved To: Closed",0,2,70,1,-1
+FELIX-3619,2012-08-02,"Date: 2013-06-07T10:33:08.839-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:26.541-07:00, From: Resolved To: Closed",0,1,19,1,-1
+FELIX-3618,2012-07-30,"Date: 2013-01-31T13:40:51.816-08:00, From: Open To: ResolvedDate: 2013-02-06T05:19:36.803-08:00, From: Resolved To: Closed",0,3,136,2,-1
+FELIX-3617,2012-07-30,"Date: 2012-07-30T05:57:36.289-07:00, From: Open To: Resolved",0,1,26,1,-1
+FELIX-3616,2012-07-27,"Date: 2012-07-27T08:34:26.435-07:00, From: Open To: Resolved",0,1,32,1,-1
+FELIX-3615,2012-07-26,"Date: 2012-07-26T22:50:32.699-07:00, From: Open To: Closed",0,2,38,1,-1
+FELIX-3614,2012-07-26,,0,7,272,2,-1
+FELIX-3613,2012-07-26,"Date: 2012-07-30T05:18:10.723-07:00, From: Open To: ResolvedDate: 2012-10-12T09:25:47.131-07:00, From: Resolved To: Closed",0,6,265,2,-1
+FELIX-3612,2012-07-26,"Date: 2012-07-26T01:49:00.716-07:00, From: Open To: Resolved",0,2,48,1,-1
+FELIX-3611,2012-07-25,"Date: 2012-07-26T09:22:32.450-07:00, From: Open To: Resolved",0,2,67,2,-1
+FELIX-3610,2012-07-25,"Date: 2012-07-27T02:27:08.650-07:00, From: Open To: Resolved",0,19,1483,3,-3
+FELIX-3609,2012-07-25,"Date: 2012-07-25T02:57:13.927-07:00, From: Open To: ResolvedDate: 2012-07-25T09:53:07.966-07:00, From: Resolved To: ReopenedDate: 2012-07-26T07:56:08.498-07:00, From: Reopened To: Resolved",1,10,409,2,-2
+FELIX-3608,2012-07-24,,0,0,2,1,-1
+FELIX-3607,2012-07-24,,0,2,139,2,-1
+FELIX-3606,2012-07-24,"Date: 2012-08-31T07:12:50.628-07:00, From: Open To: ResolvedDate: 2012-08-31T07:18:36.580-07:00, From: Resolved To: Closed",0,2,46,1,-1
+FELIX-3605,2012-07-23,"Date: 2012-07-23T06:49:27.563-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:55.848-07:00, From: Resolved To: Closed",0,2,31,1,-1
+FELIX-3604,2012-07-22,"Date: 2012-07-25T04:53:27.668-07:00, From: Open To: Resolved",0,4,202,1,-1
+FELIX-3603,2012-07-21,"Date: 2012-07-25T04:54:45.919-07:00, From: Open To: ResolvedDate: 2012-07-26T16:46:59.943-07:00, From: Resolved To: ReopenedDate: 2012-07-27T02:24:02.540-07:00, From: Reopened To: Resolved",1,5,124,2,-1
+FELIX-3602,2012-07-18,"Date: 2012-07-18T14:24:28.265-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:24.840-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3601,2012-07-18,"Date: 2013-04-01T15:59:45.164-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.695-07:00, From: Resolved To: Closed",0,3,56,1,-3
+FELIX-3600,2012-07-18,"Date: 2012-09-28T06:43:25.466-07:00, From: Open To: Resolved",0,9,238,2,-1
+FELIX-3599,2012-07-17,"Date: 2012-08-01T03:19:40.744-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:26.076-08:00, From: Resolved To: Closed",0,2,163,2,-2
+FELIX-3598,2012-07-15,"Date: 2012-07-15T08:12:41.164-07:00, From: Open To: Closed",0,8,913,1,-2
+FELIX-3597,2012-07-13,"Date: 2012-09-03T06:09:32.346-07:00, From: Open To: ResolvedDate: 2015-03-16T23:58:31.267-07:00, From: Resolved To: Closed",0,2,51,1,-1
+FELIX-3596,2012-07-13,"Date: 2012-07-14T01:48:51.696-07:00, From: Open To: In ProgressDate: 2012-07-14T05:00:45.870-07:00, From: In Progress To: ResolvedDate: 2012-10-29T04:57:54.081-07:00, From: Resolved To: Closed",0,2,71,1,-1
+FELIX-3595,2012-07-12,"Date: 2012-07-12T07:28:30.711-07:00, From: Open To: ResolvedDate: 2015-01-05T01:47:48.354-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3594,2012-07-11,"Date: 2012-07-11T23:34:38.144-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:59.509-07:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3593,2012-07-11,"Date: 2012-08-12T22:39:37.091-07:00, From: Open To: Closed",0,3,72,2,-2
+FELIX-3592,2012-07-11,"Date: 2012-07-11T07:18:43.898-07:00, From: Open To: In ProgressDate: 2012-07-11T07:18:51.104-07:00, From: In Progress To: OpenDate: 2012-07-12T00:55:33.272-07:00, From: Open To: Resolved",1,1,26,1,-1
+FELIX-3591,2012-07-11,,0,2,49,1,-1
+FELIX-3590,2012-07-11,"Date: 2012-07-12T14:28:28.672-07:00, From: Open To: ResolvedDate: 2012-07-12T15:20:41.326-07:00, From: Resolved To: Closed",0,5,486,2,-1
+FELIX-3589,2012-07-11,"Date: 2012-07-11T00:57:02.444-07:00, From: Open To: ResolvedDate: 2015-01-05T01:47:46.856-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3588,2012-07-09,,0,1,61,1,-1
+FELIX-3587,2012-07-07,,0,3,429,3,-1
+FELIX-3586,2012-07-06,"Date: 2013-01-23T04:33:35.922-08:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.088-07:00, From: Resolved To: Closed",0,4,101,1,-3
+FELIX-3585,2012-07-05,"Date: 2013-04-05T09:33:43.407-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.931-07:00, From: Resolved To: Closed",0,4,151,1,-2
+FELIX-3584,2012-07-05,"Date: 2013-10-15T16:47:17.604-07:00, From: Open To: ResolvedDate: 2013-10-15T16:47:36.134-07:00, From: Resolved To: Closed",0,3,71,2,-1
+FELIX-3583,2012-07-04,"Date: 2012-07-09T20:50:43.498-07:00, From: Open To: ResolvedDate: 2012-07-10T07:38:35.671-07:00, From: Resolved To: Closed",0,4,153,2,-3
+FELIX-3582,2012-07-03,"Date: 2013-06-07T13:01:38.252-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.333-07:00, From: Resolved To: Closed",0,1,19,1,-1
+FELIX-3581,2012-07-02,"Date: 2012-07-03T02:18:55.075-07:00, From: Open To: Resolved",0,1,35,1,-1
+FELIX-3580,2012-07-02,"Date: 2012-07-02T07:31:11.000-07:00, From: Open To: Closed",0,1,48,1,-1
+FELIX-3579,2012-07-02,"Date: 2012-07-02T07:35:28.556-07:00, From: Open To: Closed",0,2,114,4,-2
+FELIX-3578,2012-07-02,"Date: 2012-07-03T01:25:32.922-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.590-07:00, From: Resolved To: Closed",0,3,78,1,-1
+FELIX-3577,2012-07-02,"Date: 2012-07-05T10:51:34.273-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.833-07:00, From: Resolved To: Closed",0,9,376,1,-3
+FELIX-3576,2012-06-29,"Date: 2012-07-03T11:06:46.806-07:00, From: Open To: ClosedDate: 2012-07-03T23:55:54.928-07:00, From: Closed To: ReopenedDate: 2012-07-05T02:04:41.765-07:00, From: Reopened To: ResolvedDate: 2012-10-17T08:49:45.991-07:00, From: Resolved To: ReopenedDate: 2012-10-17T17:41:53.596-07:00, From: Reopened To: Closed",2,8,907,2,-1
+FELIX-3575,2012-06-29,,0,3,106,2,-1
+FELIX-3574,2012-06-27,"Date: 2012-06-28T00:53:58.527-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:33.710-08:00, From: Resolved To: Closed",0,5,148,3,-2
+FELIX-3573,2012-06-27,"Date: 2012-06-28T00:54:24.120-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:29.150-08:00, From: Resolved To: Closed",0,1,27,1,-1
+FELIX-3572,2012-06-26,"Date: 2012-06-29T15:10:37.377-07:00, From: Open To: Closed",0,1,56,1,-1
+FELIX-3571,2012-06-24,"Date: 2012-06-28T05:49:06.190-07:00, From: Open To: ResolvedDate: 2012-08-24T04:32:15.722-07:00, From: Resolved To: Closed",0,2,60,2,-1
+FELIX-3570,2012-06-24,"Date: 2012-07-11T23:57:52.751-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:58.675-07:00, From: Resolved To: Closed",0,2,52,1,-1
+FELIX-3569,2012-06-22,"Date: 2012-09-28T18:06:59.074-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.753-08:00, From: Resolved To: Closed",0,5,252,1,-1
+FELIX-3568,2012-06-21,"Date: 2012-06-28T05:46:14.958-07:00, From: Open To: ResolvedDate: 2012-07-03T23:36:10.146-07:00, From: Resolved To: ReopenedDate: 2012-11-30T02:36:41.799-08:00, From: Reopened To: ResolvedDate: 2012-12-07T02:25:56.187-08:00, From: Resolved To: Closed",1,14,583,3,-3
+FELIX-3567,2012-06-21,"Date: 2012-06-22T00:48:21.859-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:25.817-08:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3566,2012-06-20,,0,6,553,2,-4
+FELIX-3565,2012-06-20,"Date: 2015-07-09T13:00:23.808-07:00, From: Open To: Resolved",0,5,209,2,-2
+FELIX-3564,2012-06-18,"Date: 2012-06-19T07:52:16.073-07:00, From: Open To: Resolved",0,2,95,2,-1
+FELIX-3563,2012-06-18,,0,1,40,1,-1
+FELIX-3562,2012-06-18,"Date: 2012-06-18T23:18:21.838-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.720-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3561,2012-06-17,,0,0,2,1,-1
+FELIX-3560,2012-06-17,"Date: 2012-07-09T19:11:05.287-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:28.335-08:00, From: Resolved To: Closed",0,2,62,1,-1
+FELIX-3559,2012-06-15,"Date: 2012-08-29T10:08:46.290-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.930-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3558,2012-06-15,"Date: 2012-06-15T20:58:29.407-07:00, From: Open To: ClosedDate: 2013-02-09T23:54:01.397-08:00, From: Closed To: ReopenedDate: 2013-02-09T23:54:40.611-08:00, From: Reopened To: ResolvedDate: 2015-08-01T04:25:44.922-07:00, From: Resolved To: Closed",1,3,35,2,-1
+FELIX-3557,2012-06-15,"Date: 2012-10-16T12:35:34.959-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.877-08:00, From: Resolved To: Closed",0,6,284,1,-2
+FELIX-3556,2012-06-15,"Date: 2012-06-15T10:29:16.801-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3555,2012-06-15,"Date: 2012-06-28T08:21:27.208-07:00, From: Open To: ResolvedDate: 2012-08-24T04:32:55.268-07:00, From: Resolved To: Closed",0,4,116,3,-2
+FELIX-3554,2012-06-14,"Date: 2012-07-05T10:51:06.939-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:54.218-07:00, From: Resolved To: Closed",0,2,68,1,-1
+FELIX-3553,2012-06-14,"Date: 2013-01-31T10:11:23.472-08:00, From: Open To: Resolved",0,16,822,3,-1
+FELIX-3552,2012-06-14,"Date: 2012-06-14T07:49:34.795-07:00, From: Open To: In ProgressDate: 2012-06-29T00:42:04.169-07:00, From: In Progress To: ResolvedDate: 2012-08-24T04:31:47.986-07:00, From: Resolved To: Closed",0,4,65,1,-1
+FELIX-3551,2012-06-13,"Date: 2012-06-13T08:47:55.543-07:00, From: Open To: In ProgressDate: 2012-08-12T21:31:44.583-07:00, From: In Progress To: ResolvedDate: 2012-08-24T04:31:48.315-07:00, From: Resolved To: Closed",0,1,42,1,-1
+FELIX-3550,2012-06-13,"Date: 2012-06-13T04:49:38.933-07:00, From: Open To: In ProgressDate: 2012-08-12T21:22:52.869-07:00, From: In Progress To: ResolvedDate: 2012-08-24T04:31:48.051-07:00, From: Resolved To: Closed",0,5,273,2,-1
+FELIX-3549,2012-06-13,"Date: 2012-06-13T04:43:30.316-07:00, From: Open To: ResolvedDate: 2015-04-23T06:32:00.183-07:00, From: Resolved To: Closed",0,2,26,1,-1
+FELIX-3548,2012-06-13,"Date: 2012-06-28T00:52:44.236-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:33.501-08:00, From: Resolved To: Closed",0,3,130,1,-1
+FELIX-3547,2012-06-12,,0,3,59,2,-3
+FELIX-3546,2012-06-12,"Date: 2014-02-12T01:26:30.083-08:00, From: Open To: ResolvedDate: 2014-06-13T02:27:14.532-07:00, From: Resolved To: Closed",0,1,35,1,-1
+FELIX-3545,2012-06-12,"Date: 2012-06-12T13:22:01.975-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:26.680-08:00, From: Resolved To: Closed",0,2,54,2,-1
+FELIX-3544,2012-06-11,"Date: 2012-06-11T10:34:48.203-07:00, From: Open To: ResolvedDate: 2015-03-16T23:50:08.737-07:00, From: Resolved To: Closed",0,1,20,1,-1
+FELIX-3543,2012-06-11,"Date: 2014-03-31T09:16:05.403-07:00, From: Open To: ResolvedDate: 2015-03-16T23:55:30.076-07:00, From: Resolved To: Closed",0,1,20,1,-1
+FELIX-3542,2012-06-11,"Date: 2013-04-03T01:14:48.272-07:00, From: Open To: ResolvedDate: 2013-04-04T02:59:10.957-07:00, From: Resolved To: ReopenedDate: 2013-04-23T06:38:15.764-07:00, From: Reopened To: ResolvedDate: 2013-04-29T02:33:42.831-07:00, From: Resolved To: Closed",1,6,328,1,-2
+FELIX-3541,2012-06-09,,0,1,38,1,-1
+FELIX-3539,2012-06-06,"Date: 2012-06-12T12:21:53.763-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:24.851-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3538,2012-06-06,,0,1,72,1,-1
+FELIX-3537,2012-06-05,,0,10,632,3,-1
+FELIX-3536,2012-06-04,"Date: 2012-06-05T16:31:32.355-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.438-08:00, From: Resolved To: Closed",0,4,152,2,-1
+FELIX-3535,2012-06-04,"Date: 2012-10-17T23:33:57.974-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.499-08:00, From: Resolved To: Closed",0,3,70,1,-1
+FELIX-3534,2012-06-04,"Date: 2012-10-16T12:51:56.759-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.310-08:00, From: Resolved To: Closed",0,3,74,1,-1
+FELIX-3533,2012-06-04,"Date: 2012-06-04T18:33:03.411-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.008-08:00, From: Resolved To: Closed",0,2,36,1,-1
+FELIX-3532,2012-06-01,"Date: 2012-06-01T15:25:22.305-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.953-07:00, From: Resolved To: Closed",0,1,39,1,-1
+FELIX-3531,2012-06-01,"Date: 2012-06-01T07:58:40.849-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3530,2012-06-01,"Date: 2012-06-01T07:38:45.860-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3529,2012-06-01,"Date: 2012-06-01T07:24:43.887-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3528,2012-06-01,"Date: 2012-06-01T06:36:09.120-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3527,2012-05-31,"Date: 2012-05-31T06:49:42.724-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.632-08:00, From: Resolved To: Closed",0,3,53,1,-1
+FELIX-3526,2012-05-30,"Date: 2012-05-30T09:28:43.859-07:00, From: Open To: ResolvedDate: 2014-04-01T05:48:25.565-07:00, From: Resolved To: Closed",0,2,37,1,-1
+FELIX-3525,2012-05-30,"Date: 2012-05-30T04:00:56.174-07:00, From: Open To: ResolvedDate: 2012-05-30T04:01:08.572-07:00, From: Resolved To: Closed",0,2,75,1,-1
+FELIX-3524,2012-05-27,"Date: 2012-09-02T12:54:39.923-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.763-08:00, From: Resolved To: Closed",0,12,559,2,-1
+FELIX-3523,2012-05-23,,0,0,2,1,-1
+FELIX-3522,2012-05-23,"Date: 2012-06-14T03:40:16.225-07:00, From: Open To: Closed",0,16,1172,3,-2
+FELIX-3521,2012-05-22,"Date: 2012-05-25T11:11:08.814-07:00, From: Open To: ResolvedDate: 2012-05-28T00:57:03.830-07:00, From: Resolved To: Closed",0,5,255,2,-1
+FELIX-3520,2012-05-22,"Date: 2012-05-25T07:31:46.788-07:00, From: Open To: Resolved",0,2,82,1,-1
+FELIX-3519,2012-05-22,"Date: 2012-06-13T07:48:54.738-07:00, From: Open To: Closed",0,8,320,2,-3
+FELIX-3518,2012-05-21,"Date: 2012-09-04T11:13:23.034-07:00, From: Open To: ResolvedDate: 2012-09-18T13:06:44.865-07:00, From: Resolved To: Closed",0,1,34,1,-1
+FELIX-3517,2012-05-21,,0,3,209,3,-1
+FELIX-3516,2012-05-21,"Date: 2012-10-12T05:42:07.171-07:00, From: Open To: ResolvedDate: 2012-10-12T07:41:07.517-07:00, From: Resolved To: Closed",0,3,85,2,-1
+FELIX-3515,2012-05-20,"Date: 2012-05-21T01:25:07.766-07:00, From: Open To: ResolvedDate: 2012-05-21T03:33:30.866-07:00, From: Resolved To: Closed",0,4,116,2,-3
+FELIX-3514,2012-05-17,"Date: 2012-07-01T15:30:35.391-07:00, From: Open To: ResolvedDate: 2012-07-12T06:11:28.665-07:00, From: Resolved To: Closed",0,7,558,3,-3
+FELIX-3513,2012-05-17,"Date: 2012-08-31T07:10:06.624-07:00, From: Open To: ResolvedDate: 2012-08-31T07:20:34.565-07:00, From: Resolved To: Closed",0,2,32,1,-1
+FELIX-3512,2012-05-17,"Date: 2012-05-23T01:09:38.557-07:00, From: Open To: Resolved",0,1,23,1,-1
+FELIX-3511,2012-05-15,"Date: 2014-08-21T23:49:38.868-07:00, From: Open To: ResolvedDate: 2014-08-25T02:20:20.960-07:00, From: Resolved To: Closed",0,5,363,1,-1
+FELIX-3510,2012-05-15,"Date: 2012-06-13T05:22:45.041-07:00, From: Open To: ResolvedDate: 2012-08-24T04:32:33.337-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3509,2012-05-15,"Date: 2012-06-13T06:14:37.457-07:00, From: Open To: ResolvedDate: 2012-08-24T04:31:47.921-07:00, From: Resolved To: Closed",0,1,28,1,-1
+FELIX-3508,2012-05-14,"Date: 2012-05-17T11:23:58.630-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:29.358-08:00, From: Resolved To: Closed",0,2,43,1,-1
+FELIX-3507,2012-05-14,"Date: 2012-05-17T06:40:07.152-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.234-08:00, From: Resolved To: Closed",0,7,140,2,-1
+FELIX-3506,2012-05-11,"Date: 2012-05-11T20:26:08.505-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.659-08:00, From: Resolved To: Closed",0,3,73,1,-1
+FELIX-3505,2012-05-11,,0,0,2,1,-1
+FELIX-3504,2012-05-11,"Date: 2012-06-16T12:20:18.991-07:00, From: Open To: Closed",0,1,65,1,-1
+FELIX-3503,2012-05-11,"Date: 2012-05-29T04:00:52.172-07:00, From: Open To: Resolved",0,1,42,1,-1
+FELIX-3502,2012-05-11,"Date: 2012-05-11T01:33:56.421-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.335-08:00, From: Resolved To: Closed",0,4,333,3,-2
+FELIX-3501,2012-05-09,"Date: 2012-05-28T00:35:49.616-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:30.172-08:00, From: Resolved To: Closed",0,3,152,2,-1
+FELIX-3500,2012-05-07,"Date: 2012-06-12T12:50:24.048-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:31.611-08:00, From: Resolved To: Closed",0,2,73,2,-1
+FELIX-3499,2012-05-05,"Date: 2015-08-29T22:06:07.217-07:00, From: Open To: Closed",0,1,28,1,-1
+FELIX-3498,2012-05-04,"Date: 2012-07-25T04:39:53.204-07:00, From: Open To: ResolvedDate: 2012-08-07T09:16:26.273-07:00, From: Resolved To: Closed",0,4,69,1,-1
+FELIX-3497,2012-05-03,"Date: 2013-06-07T11:26:18.147-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:26.065-07:00, From: Resolved To: Closed",0,2,26,1,-1
+FELIX-3496,2012-05-03,"Date: 2017-02-24T04:26:09.973-08:00, From: Open To: Closed",0,2,55,1,-1
+FELIX-3495,2012-05-01,"Date: 2012-10-17T08:43:31.966-07:00, From: Open To: Closed",0,2,46,1,-1
+FELIX-3494,2012-04-30,"Date: 2016-01-19T07:44:50.510-08:00, From: Open To: Resolved",0,1,72,1,-1
+FELIX-3493,2012-04-29,"Date: 2012-06-11T08:14:55.028-07:00, From: Open To: ResolvedDate: 2015-03-16T23:58:37.008-07:00, From: Resolved To: Closed",0,1,20,1,-1
+FELIX-3492,2012-04-27,"Date: 2012-05-01T05:34:23.783-07:00, From: Open To: Closed",0,5,158,1,-2
+FELIX-3491,2012-04-26,"Date: 2012-04-26T05:16:18.697-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.810-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3490,2012-04-25,"Date: 2012-04-25T14:04:43.863-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.266-08:00, From: Resolved To: Closed",0,2,30,1,-1
+FELIX-3489,2012-04-25,,0,0,2,1,-1
+FELIX-3488,2012-04-25,"Date: 2012-06-11T08:45:29.845-07:00, From: Open To: Resolved",0,1,32,1,-1
+FELIX-3487,2012-04-25,"Date: 2012-06-11T02:53:18.883-07:00, From: Open To: ResolvedDate: 2015-03-16T23:50:17.552-07:00, From: Resolved To: Closed",0,2,56,1,-1
+FELIX-3486,2012-04-25,"Date: 2013-07-01T00:40:25.341-07:00, From: Open To: ResolvedDate: 2015-08-01T04:22:51.572-07:00, From: Resolved To: Closed",0,2,51,1,-1
+FELIX-3485,2012-04-25,"Date: 2012-04-25T08:53:49.145-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.018-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3484,2012-04-25,"Date: 2012-04-26T01:23:39.868-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3483,2012-04-24,"Date: 2012-04-24T08:38:12.192-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.652-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3482,2012-04-24,"Date: 2012-04-24T05:57:47.015-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.704-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3481,2012-04-24,"Date: 2012-07-05T10:50:16.622-07:00, From: Open To: ResolvedDate: 2012-07-08T11:24:01.838-07:00, From: Resolved To: ReopenedDate: 2012-07-08T11:24:36.634-07:00, From: Reopened To: ResolvedDate: 2012-10-29T04:57:54.010-07:00, From: Resolved To: Closed",1,10,215,2,-1
+FELIX-3480,2012-04-24,"Date: 2012-04-25T01:51:12.255-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:54.136-07:00, From: Resolved To: Closed",0,3,98,1,-1
+FELIX-3479,2012-04-24,"Date: 2012-04-24T10:16:55.810-07:00, From: Open To: ResolvedDate: 2012-10-29T04:57:53.777-07:00, From: Resolved To: Closed",0,2,45,1,-1
+FELIX-3478,2012-04-23,,0,4,111,2,-1
+FELIX-3477,2012-04-23,,0,10,848,2,-2
+FELIX-3476,2012-04-23,"Date: 2012-04-25T05:25:24.020-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3475,2012-04-23,"Date: 2012-04-23T07:44:38.560-07:00, From: Open To: In ProgressDate: 2012-04-23T07:45:41.197-07:00, From: In Progress To: Resolved",0,1,33,1,-1
+FELIX-3474,2012-04-23,"Date: 2012-04-25T05:25:05.970-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3473,2012-04-23,"Date: 2012-04-23T07:12:59.717-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.649-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3472,2012-04-22,,0,1,84,1,-1
+FELIX-3471,2012-04-19,,0,7,697,2,-4
+FELIX-3470,2012-04-19,,0,0,2,1,-1
+FELIX-3469,2012-04-19,"Date: 2012-04-19T02:00:32.378-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.971-08:00, From: Resolved To: Closed",0,3,109,1,-1
+FELIX-3468,2012-04-17,,0,3,206,2,-1
+FELIX-3467,2012-04-17,"Date: 2012-04-17T09:10:23.484-07:00, From: Open To: ResolvedDate: 2015-03-16T23:59:11.804-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3466,2012-04-17,"Date: 2012-06-05T15:22:51.596-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:32.851-08:00, From: Resolved To: Closed",0,3,66,1,-2
+FELIX-3465,2012-04-16,"Date: 2012-04-16T12:20:05.076-07:00, From: Open To: ClosedDate: 2012-05-25T08:33:46.652-07:00, From: Closed To: ReopenedDate: 2012-05-25T11:10:04.415-07:00, From: Reopened To: Closed",1,5,261,2,-2
+FELIX-3464,2012-04-16,,0,2,194,1,-1
+FELIX-3463,2012-04-15,"Date: 2012-04-16T09:00:18.659-07:00, From: Open To: Closed",0,5,118,1,-1
+FELIX-3462,2012-04-14,"Date: 2014-06-14T03:40:47.852-07:00, From: Open To: ResolvedDate: 2015-08-01T04:28:55.774-07:00, From: Resolved To: Closed",0,1,47,1,-1
+FELIX-3461,2012-04-14,"Date: 2012-04-17T09:11:20.416-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:31.416-08:00, From: Resolved To: Closed",0,21,1642,2,-3
+FELIX-3460,2012-04-14,,0,1,57,1,-1
+FELIX-3459,2012-04-14,"Date: 2012-06-11T08:42:23.252-07:00, From: Open To: Resolved",0,1,54,1,-1
+FELIX-3458,2012-04-13,"Date: 2012-05-10T11:38:23.126-07:00, From: Open To: Closed",0,3,120,2,-1
+FELIX-3457,2012-04-13,"Date: 2012-04-13T06:24:14.120-07:00, From: Open To: ResolvedDate: 2012-08-24T04:31:48.172-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3456,2012-04-12,"Date: 2012-10-05T11:42:30.543-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.012-08:00, From: Resolved To: Closed",0,25,2564,2,-4
+FELIX-3455,2012-04-12,"Date: 2012-06-16T12:14:13.488-07:00, From: Open To: ClosedDate: 2012-06-16T12:58:32.025-07:00, From: Closed To: ReopenedDate: 2012-06-16T12:58:53.209-07:00, From: Reopened To: ClosedDate: 2012-08-31T14:13:04.455-07:00, From: Closed To: ReopenedDate: 2012-08-31T15:25:37.971-07:00, From: Reopened To: Closed",2,6,164,3,-1
+FELIX-3454,2012-04-12,"Date: 2012-04-12T06:34:41.095-07:00, From: Open To: ResolvedDate: 2013-08-02T07:52:25.296-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3453,2012-04-11,"Date: 2012-04-11T07:00:05.525-07:00, From: Open To: ResolvedDate: 2012-09-18T13:06:44.797-07:00, From: Resolved To: Closed",0,2,39,2,-1
+FELIX-3452,2012-04-10,"Date: 2013-02-26T05:52:39.128-08:00, From: Open To: Closed",0,2,41,1,-1
+FELIX-3451,2012-04-10,,0,9,1039,2,-3
+FELIX-3450,2012-04-10,"Date: 2012-04-10T02:40:49.146-07:00, From: Open To: Closed",0,3,203,1,-3
+FELIX-3449,2012-04-06,"Date: 2012-04-06T02:06:39.191-07:00, From: Open To: ResolvedDate: 2013-08-02T07:52:25.724-07:00, From: Resolved To: Closed",0,1,46,1,-1
+FELIX-3448,2012-04-06,"Date: 2012-04-06T01:07:47.430-07:00, From: Open To: ResolvedDate: 2015-03-16T23:59:25.147-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3447,2012-04-05,"Date: 2012-04-09T09:49:00.938-07:00, From: Open To: Resolved",0,7,291,3,-2
+FELIX-3446,2012-04-05,,0,1,33,1,-1
+FELIX-3445,2012-04-05,,0,0,2,1,-1
+FELIX-3444,2012-04-05,"Date: 2012-04-05T07:52:38.708-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-3443,2012-04-05,"Date: 2012-04-05T05:08:36.713-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3442,2012-04-05,"Date: 2012-04-05T07:13:00.501-07:00, From: Open To: Resolved",0,2,103,1,-3
+FELIX-3441,2012-04-05,"Date: 2012-04-05T07:12:49.149-07:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-3440,2012-04-05,"Date: 2012-04-05T04:57:39.861-07:00, From: Open To: ResolvedDate: 2013-08-02T07:52:25.860-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3439,2012-04-05,"Date: 2012-04-05T04:51:46.640-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3438,2012-04-05,"Date: 2012-04-05T04:47:05.560-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3437,2012-04-05,"Date: 2012-04-05T04:49:06.522-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3436,2012-04-05,"Date: 2012-04-05T04:12:36.286-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3435,2012-04-05,"Date: 2012-04-05T04:09:28.215-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3434,2012-04-04,"Date: 2012-04-04T07:21:15.905-07:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-3433,2012-04-04,"Date: 2012-04-04T07:16:52.746-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.731-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3432,2012-04-04,"Date: 2012-04-05T07:14:02.486-07:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-3431,2012-04-04,"Date: 2012-04-04T04:52:44.987-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3430,2012-04-04,,0,0,2,1,-1
+FELIX-3429,2012-04-04,"Date: 2012-04-04T02:08:43.025-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3428,2012-04-04,"Date: 2012-04-04T00:03:50.604-07:00, From: Open To: Resolved",0,2,27,1,-1
+FELIX-3427,2012-04-03,"Date: 2012-04-03T09:29:48.733-07:00, From: Open To: Resolved",0,1,21,1,-1
+FELIX-3426,2012-04-03,"Date: 2012-04-03T08:56:46.220-07:00, From: Open To: Resolved",0,1,22,1,-1
+FELIX-3425,2012-04-03,"Date: 2012-04-03T07:39:57.010-07:00, From: Open To: In ProgressDate: 2012-04-03T07:40:07.366-07:00, From: In Progress To: OpenDate: 2012-04-03T07:44:05.233-07:00, From: Open To: Resolved",1,1,43,1,-1
+FELIX-3424,2012-04-03,"Date: 2012-04-03T07:30:18.830-07:00, From: Open To: In ProgressDate: 2012-04-03T07:34:33.189-07:00, From: In Progress To: OpenDate: 2012-04-03T07:43:04.919-07:00, From: Open To: Resolved",1,3,159,1,-1
+FELIX-3423,2012-04-03,"Date: 2012-04-03T07:28:08.193-07:00, From: Open To: In ProgressDate: 2012-04-03T07:28:23.977-07:00, From: In Progress To: OpenDate: 2012-04-03T07:29:55.595-07:00, From: Open To: ResolvedDate: 2012-04-03T11:24:05.536-07:00, From: Resolved To: Closed",1,2,42,2,-1
+FELIX-3422,2012-04-03,,0,1,70,1,-1
+FELIX-3421,2012-04-02,"Date: 2013-07-11T03:13:03.665-07:00, From: Open To: ResolvedDate: 2014-01-21T10:55:25.530-08:00, From: Resolved To: Closed",0,3,161,1,-1
+FELIX-3420,2012-04-02,,0,1,43,1,-2
+FELIX-3419,2012-04-02,,0,3,152,1,-2
+FELIX-3418,2012-04-02,"Date: 2012-04-02T04:21:28.117-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.184-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3417,2012-04-02,"Date: 2012-04-02T07:54:03.349-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.739-08:00, From: Resolved To: Closed",0,2,27,1,-1
+FELIX-3416,2012-04-01,"Date: 2012-06-11T08:23:18.502-07:00, From: Open To: ResolvedDate: 2015-03-16T23:58:51.010-07:00, From: Resolved To: Closed",0,1,20,1,-1
+FELIX-3415,2012-03-30,,0,1,114,1,-1
+FELIX-3414,2012-03-29,"Date: 2012-06-11T09:04:34.673-07:00, From: Open To: ResolvedDate: 2015-03-16T23:59:01.643-07:00, From: Resolved To: Closed",0,3,274,1,-1
+FELIX-3413,2012-03-29,"Date: 2012-03-29T09:46:38.462-07:00, From: Open To: ResolvedDate: 2012-03-29T21:39:32.167-07:00, From: Resolved To: Closed",0,3,75,2,-1
+FELIX-3412,2012-03-29,,0,0,2,1,-1
+FELIX-3411,2012-03-29,"Date: 2013-02-01T13:06:51.512-08:00, From: Open To: ResolvedDate: 2013-02-07T04:04:23.026-08:00, From: Resolved To: ReopenedDate: 2013-02-07T06:33:45.784-08:00, From: Reopened To: ResolvedDate: 2013-02-07T18:05:59.052-08:00, From: Resolved To: ClosedDate: 2013-03-05T06:10:32.170-08:00, From: Closed To: ReopenedDate: 2013-03-05T06:10:51.190-08:00, From: Reopened To: Closed",2,15,1354,2,-1
+FELIX-3410,2012-03-28,"Date: 2012-05-31T09:53:12.706-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.323-08:00, From: Resolved To: Closed",0,4,76,2,-1
+FELIX-3409,2012-03-28,"Date: 2012-03-30T03:08:07.713-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.894-08:00, From: Resolved To: Closed",0,3,46,2,-1
+FELIX-3408,2012-03-28,"Date: 2012-03-28T02:41:01.892-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.133-08:00, From: Resolved To: Closed",0,4,58,1,-2
+FELIX-3407,2012-03-28,"Date: 2013-04-01T16:46:14.618-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:26.404-07:00, From: Resolved To: Closed",0,9,547,2,-3
+FELIX-3406,2012-03-28,"Date: 2012-04-05T07:11:52.276-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.529-08:00, From: Resolved To: Closed",0,7,182,2,-1
+FELIX-3405,2012-03-28,"Date: 2012-03-28T00:51:49.264-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.872-08:00, From: Resolved To: Closed",0,2,36,1,-1
+FELIX-3404,2012-03-27,"Date: 2012-03-27T23:45:30.596-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.902-08:00, From: Resolved To: Closed",0,2,36,1,-1
+FELIX-3403,2012-03-26,,0,0,2,1,-1
+FELIX-3402,2012-03-22,"Date: 2013-01-15T02:20:40.999-08:00, From: Open To: Resolved",0,1,94,1,-1
+FELIX-3401,2012-03-21,"Date: 2012-03-26T08:23:59.094-07:00, From: Open To: ResolvedDate: 2012-03-29T10:59:48.005-07:00, From: Resolved To: Closed",0,3,116,3,-1
+FELIX-3400,2012-03-21,"Date: 2012-03-23T02:06:09.924-07:00, From: Open To: ResolvedDate: 2014-04-01T05:48:24.711-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3399,2012-03-20,"Date: 2013-01-29T13:15:09.559-08:00, From: Open To: Closed",0,7,250,2,-1
+FELIX-3398,2012-03-19,"Date: 2012-03-19T06:44:57.321-07:00, From: Open To: ResolvedDate: 2015-03-16T23:59:36.923-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3397,2012-03-16,"Date: 2012-04-16T11:50:42.177-07:00, From: Open To: Resolved",0,3,82,1,-1
+FELIX-3396,2012-03-15,"Date: 2012-03-15T09:44:17.769-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:47.689-07:00, From: Resolved To: Closed",0,4,81,2,-1
+FELIX-3395,2012-03-14,"Date: 2016-10-09T07:31:37.641-07:00, From: Open To: Resolved",0,10,676,3,-3
+FELIX-3394,2012-03-14,"Date: 2012-03-14T09:22:15.113-07:00, From: Open To: Resolved",0,1,158,1,-1
+FELIX-3393,2012-03-14,"Date: 2012-03-14T08:29:21.454-07:00, From: Open To: ResolvedDate: 2012-03-30T09:58:05.574-07:00, From: Resolved To: ReopenedDate: 2012-04-02T13:21:06.668-07:00, From: Reopened To: Resolved",1,3,363,2,-2
+FELIX-3392,2012-03-13,,0,9,491,3,-1
+FELIX-3391,2012-03-13,"Date: 2012-03-25T08:07:55.032-07:00, From: Open To: ResolvedDate: 2012-03-27T01:10:42.888-07:00, From: Resolved To: Closed",0,3,50,1,-1
+FELIX-3390,2012-03-12,"Date: 2012-04-09T23:15:42.362-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:36.931-07:00, From: Resolved To: Closed",0,3,57,1,-1
+FELIX-3389,2012-03-12,"Date: 2012-03-13T04:21:50.066-07:00, From: Open To: ResolvedDate: 2013-02-03T03:08:53.611-08:00, From: Resolved To: Closed",0,3,76,1,-1
+FELIX-3388,2012-03-12,,0,11,757,1,-3
+FELIX-3387,2012-03-11,,0,1,38,2,-1
+FELIX-3386,2012-03-11,"Date: 2012-03-15T14:07:04.229-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:49.267-07:00, From: Resolved To: Closed",0,1,28,1,-1
+FELIX-3385,2012-03-10,"Date: 2012-03-12T20:33:48.500-07:00, From: Open To: Closed",0,3,53,1,-1
+FELIX-3384,2012-03-10,"Date: 2012-03-12T03:57:57.574-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:33.952-08:00, From: Resolved To: Closed",0,3,139,1,-1
+FELIX-3383,2012-03-10,"Date: 2012-03-15T09:45:13.249-07:00, From: Open To: Resolved",0,1,27,1,-1
+FELIX-3382,2012-03-10,"Date: 2012-03-13T13:05:25.252-07:00, From: Open To: Closed",0,3,207,2,-2
+FELIX-3381,2012-03-09,"Date: 2014-06-16T00:07:40.197-07:00, From: Open To: ResolvedDate: 2015-08-01T04:29:39.238-07:00, From: Resolved To: Closed",0,3,110,1,-1
+FELIX-3380,2012-03-09,"Date: 2012-04-14T03:37:21.921-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:34.160-08:00, From: Resolved To: Closed",0,7,157,2,-3
+FELIX-3379,2012-03-08,"Date: 2012-03-09T00:03:06.343-08:00, From: Open To: Closed",0,4,314,2,-1
+FELIX-3378,2012-03-07,"Date: 2012-03-08T07:58:07.555-08:00, From: Open To: Closed",0,5,532,2,-3
+FELIX-3377,2012-03-07,"Date: 2012-05-09T17:29:42.023-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.488-08:00, From: Resolved To: Closed",0,22,2030,3,-1
+FELIX-3376,2012-03-06,"Date: 2012-03-07T14:07:37.473-08:00, From: Open To: Closed",0,4,225,2,-3
+FELIX-3375,2012-03-06,"Date: 2012-03-06T12:34:24.063-08:00, From: Open To: Closed",0,6,377,3,-3
+FELIX-3374,2012-03-05,"Date: 2012-04-14T08:23:49.697-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:24.935-07:00, From: Resolved To: Closed",0,2,94,1,-1
+FELIX-3373,2012-03-05,"Date: 2012-03-16T00:44:26.302-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:48.064-07:00, From: Resolved To: Closed",0,3,256,2,-2
+FELIX-3372,2012-03-04,"Date: 2012-06-16T13:00:31.352-07:00, From: Open To: Closed",0,3,76,1,-1
+FELIX-3371,2012-03-02,"Date: 2012-03-07T20:44:12.835-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.284-08:00, From: Resolved To: Closed",0,5,120,1,-1
+FELIX-3370,2012-03-02,"Date: 2012-03-03T08:46:24.791-08:00, From: Open To: Closed",0,5,411,2,-2
+FELIX-3369,2012-02-29,"Date: 2013-01-31T10:18:30.948-08:00, From: Open To: Resolved",0,4,246,1,-1
+FELIX-3368,2012-02-29,"Date: 2012-02-29T08:23:17.134-08:00, From: Open To: ClosedDate: 2012-02-29T08:44:01.797-08:00, From: Closed To: ReopenedDate: 2012-02-29T08:44:20.696-08:00, From: Reopened To: Closed",1,3,134,1,-1
+FELIX-3367,2012-02-29,"Date: 2013-02-01T13:14:59.676-08:00, From: Open To: Resolved",0,3,131,2,-1
+FELIX-3366,2012-02-29,"Date: 2015-09-11T06:10:11.201-07:00, From: Open To: ResolvedDate: 2015-09-23T05:52:17.743-07:00, From: Resolved To: Closed",0,3,94,1,-1
+FELIX-3365,2012-02-28,,0,1,44,1,-1
+FELIX-3364,2012-02-27,"Date: 2012-10-18T06:06:08.181-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.450-08:00, From: Resolved To: Closed",0,3,86,1,-1
+FELIX-3363,2012-02-25,"Date: 2012-06-29T15:16:37.655-07:00, From: Open To: ResolvedDate: 2014-02-10T11:47:31.921-08:00, From: Resolved To: Closed",0,5,156,2,-1
+FELIX-3362,2012-02-25,"Date: 2013-11-14T02:09:42.064-08:00, From: Open To: ResolvedDate: 2015-08-01T02:22:22.914-07:00, From: Resolved To: Closed",0,5,242,1,-1
+FELIX-3361,2012-02-24,"Date: 2012-02-24T06:08:44.451-08:00, From: Open To: Closed",0,4,428,3,-2
+FELIX-3360,2012-02-21,"Date: 2013-08-13T23:50:57.370-07:00, From: Open To: ResolvedDate: 2013-09-28T08:26:59.093-07:00, From: Resolved To: Closed",0,12,1111,1,-1
+FELIX-3359,2012-02-20,"Date: 2012-02-22T01:58:30.036-08:00, From: Open To: ResolvedDate: 2013-02-04T04:33:20.702-08:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3358,2012-02-20,"Date: 2012-11-28T07:51:04.073-08:00, From: Open To: ResolvedDate: 2012-12-07T02:25:56.070-08:00, From: Resolved To: Closed",0,15,934,3,-2
+FELIX-3357,2012-02-20,,0,0,2,1,-1
+FELIX-3356,2012-02-19,"Date: 2012-04-15T22:56:48.388-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:28.400-07:00, From: Resolved To: Closed",0,5,229,1,-2
+FELIX-3355,2012-02-19,"Date: 2013-11-15T06:05:28.374-08:00, From: Open To: ResolvedDate: 2014-04-01T05:48:26.392-07:00, From: Resolved To: Closed",0,3,126,1,-1
+FELIX-3354,2012-02-19,"Date: 2016-01-19T05:35:16.535-08:00, From: Open To: Resolved",0,2,100,1,-1
+FELIX-3353,2012-02-14,"Date: 2012-06-16T12:16:59.869-07:00, From: Open To: Closed",0,1,28,2,-1
+FELIX-3352,2012-02-14,"Date: 2013-06-07T14:24:45.815-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:24.960-07:00, From: Resolved To: Closed",0,7,184,2,-1
+FELIX-3351,2012-02-13,,0,4,265,2,-1
+FELIX-3350,2012-02-13,,0,4,302,1,-2
+FELIX-3349,2012-02-13,"Date: 2013-06-07T14:49:43.728-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.579-07:00, From: Resolved To: Closed",0,2,50,1,-1
+FELIX-3348,2012-02-13,"Date: 2012-02-13T06:57:42.905-08:00, From: Open To: ResolvedDate: 2012-02-14T23:34:14.317-08:00, From: Resolved To: Closed",0,6,241,2,-2
+FELIX-3347,2012-02-11,"Date: 2012-02-11T06:29:35.130-08:00, From: Open To: Closed",0,1,19,1,-1
+FELIX-3346,2012-02-10,"Date: 2012-03-16T01:12:50.174-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:46.868-07:00, From: Resolved To: Closed",0,8,551,1,-1
+FELIX-3345,2012-02-09,"Date: 2012-11-28T15:37:30.510-08:00, From: Open To: ResolvedDate: 2015-08-01T04:25:29.846-07:00, From: Resolved To: Closed",0,10,541,2,-3
+FELIX-3344,2012-02-09,"Date: 2013-01-31T08:49:22.056-08:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-3343,2012-02-08,"Date: 2012-04-16T11:51:37.432-07:00, From: Open To: ResolvedDate: 2012-07-25T09:41:49.305-07:00, From: Resolved To: ReopenedDate: 2012-07-25T12:45:03.637-07:00, From: Reopened To: Resolved",1,4,108,1,-1
+FELIX-3342,2012-02-08,,0,0,2,1,-1
+FELIX-3341,2012-02-06,"Date: 2012-06-06T01:52:12.454-07:00, From: Open To: ResolvedDate: 2014-02-24T06:13:09.619-08:00, From: Resolved To: ReopenedDate: 2014-02-24T06:14:11.996-08:00, From: Reopened To: Resolved",1,3,41,1,-1
+FELIX-3340,2012-02-06,"Date: 2012-06-06T01:57:53.642-07:00, From: Open To: Resolved",0,2,33,1,-1
+FELIX-3339,2012-02-06,"Date: 2013-06-20T05:47:56.411-07:00, From: Open To: Resolved",0,25,1112,3,-3
+FELIX-3338,2012-02-05,"Date: 2012-02-05T01:05:20.311-08:00, From: Open To: In ProgressDate: 2012-02-05T01:11:40.564-08:00, From: In Progress To: OpenDate: 2012-02-05T01:12:40.531-08:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.317-08:00, From: Resolved To: Closed",1,2,45,1,-1
+FELIX-3337,2012-02-03,"Date: 2012-02-04T01:02:10.319-08:00, From: Open To: Closed",0,2,116,1,-2
+FELIX-3336,2012-02-03,"Date: 2013-04-24T07:48:16.174-07:00, From: Open To: Closed",0,3,441,2,-2
+FELIX-3335,2012-02-02,"Date: 2012-02-02T04:32:35.002-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:01.192-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3334,2012-01-31,"Date: 2012-02-07T23:38:53.362-08:00, From: Open To: ResolvedDate: 2012-02-29T02:00:34.598-08:00, From: Resolved To: ReopenedDate: 2013-08-08T03:56:23.042-07:00, From: Reopened To: Resolved",1,11,701,2,-4
+FELIX-3333,2012-01-31,,0,0,2,1,-1
+FELIX-3332,2012-01-31,"Date: 2013-01-30T13:31:22.852-08:00, From: Open To: ResolvedDate: 2013-02-18T00:05:29.980-08:00, From: Resolved To: Closed",0,3,79,1,-1
+FELIX-3331,2012-01-31,"Date: 2016-01-19T05:00:23.049-08:00, From: Open To: Resolved",0,2,27,1,-1
+FELIX-3330,2012-01-31,,0,0,2,1,-1
+FELIX-3329,2012-01-31,,0,2,1659,3,-2
+FELIX-3328,2012-01-31,"Date: 2012-03-26T12:45:40.341-07:00, From: Open To: Resolved",0,1,54,1,-1
+FELIX-3327,2012-01-30,"Date: 2012-01-30T23:13:51.964-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:37.269-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3326,2012-01-30,"Date: 2012-02-09T02:46:19.032-08:00, From: Open To: In ProgressDate: 2012-02-09T08:47:28.940-08:00, From: In Progress To: ResolvedDate: 2012-05-14T07:58:27.683-07:00, From: Resolved To: Closed",0,4,68,2,-1
+FELIX-3325,2012-01-28,"Date: 2012-01-29T04:47:33.387-08:00, From: Open To: In ProgressDate: 2012-01-29T05:07:01.494-08:00, From: In Progress To: ResolvedDate: 2012-11-20T02:58:17.812-08:00, From: Resolved To: Closed",0,4,95,2,-1
+FELIX-3324,2012-01-27,"Date: 2015-07-09T13:01:38.136-07:00, From: Open To: Resolved",0,5,150,3,-2
+FELIX-3323,2012-01-27,"Date: 2012-02-09T08:52:04.680-08:00, From: Open To: ResolvedDate: 2012-05-14T07:58:25.983-07:00, From: Resolved To: Closed",0,6,114,2,-3
+FELIX-3322,2012-01-27,,0,1,21,1,-1
+FELIX-3321,2012-01-27,"Date: 2012-01-27T04:37:08.785-08:00, From: Open To: ResolvedDate: 2012-09-18T13:06:44.762-07:00, From: Resolved To: Closed",0,2,235,1,-1
+FELIX-3320,2012-01-26,"Date: 2012-03-26T13:11:04.753-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.018-08:00, From: Resolved To: Closed",0,3,70,2,-1
+FELIX-3319,2012-01-26,"Date: 2012-01-27T02:06:35.323-08:00, From: Open To: ResolvedDate: 2012-09-18T13:06:44.897-07:00, From: Resolved To: Closed",0,1,44,1,-2
+FELIX-3318,2012-01-26,"Date: 2012-12-07T02:19:21.486-08:00, From: Open To: ResolvedDate: 2013-06-06T08:35:01.019-07:00, From: Resolved To: Closed",0,12,270,2,-1
+FELIX-3317,2012-01-25,"Date: 2012-01-26T06:47:41.981-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.787-08:00, From: Resolved To: Closed",0,5,340,2,-2
+FELIX-3316,2012-01-25,"Date: 2012-03-26T13:03:38.012-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.584-08:00, From: Resolved To: Closed",0,4,89,2,-1
+FELIX-3315,2012-01-25,"Date: 2012-01-25T05:06:13.637-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.144-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3314,2012-01-25,"Date: 2012-01-25T01:43:28.301-08:00, From: Open To: ResolvedDate: 2012-04-03T08:58:07.731-07:00, From: Resolved To: ReopenedDate: 2012-04-03T09:16:34.614-07:00, From: Reopened To: Resolved",1,3,34,1,-1
+FELIX-3313,2012-01-23,"Date: 2012-01-24T07:29:40.206-08:00, From: Open To: Closed",0,1,53,1,-1
+FELIX-3312,2012-01-21,,0,0,2,1,-1
+FELIX-3311,2012-01-20,"Date: 2012-01-26T03:04:44.814-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.249-08:00, From: Resolved To: Closed",0,4,76,1,-1
+FELIX-3310,2012-01-19,"Date: 2012-02-11T06:47:42.512-08:00, From: Open To: Closed",0,2,49,1,-1
+FELIX-3309,2012-01-19,"Date: 2014-05-29T01:02:39.808-07:00, From: Open To: ResolvedDate: 2014-07-30T00:16:56.395-07:00, From: Resolved To: Closed",0,5,161,3,-3
+FELIX-3308,2012-01-19,"Date: 2012-02-01T04:38:50.584-08:00, From: Open To: ResolvedDate: 2012-02-01T04:39:03.042-08:00, From: Resolved To: Closed",0,2,46,1,-1
+FELIX-3307,2012-01-18,"Date: 2012-03-07T20:46:26.910-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.470-08:00, From: Resolved To: Closed",0,3,53,1,-1
+FELIX-3306,2012-01-16,"Date: 2012-06-16T12:10:07.762-07:00, From: Open To: Closed",0,4,317,1,-1
+FELIX-3305,2012-01-16,"Date: 2012-01-17T08:29:25.997-08:00, From: Open To: Closed",0,1,21,1,-1
+FELIX-3304,2012-01-13,"Date: 2013-08-14T03:16:02.073-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:02.525-07:00, From: Resolved To: Closed",0,2,48,1,-1
+FELIX-3303,2012-01-10,,0,0,2,1,-1
+FELIX-3302,2012-01-10,"Date: 2012-05-03T13:43:08.765-07:00, From: Open To: Resolved",0,2,77,1,-2
+FELIX-3301,2012-01-09,"Date: 2012-01-09T00:23:13.381-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.091-07:00, From: Resolved To: Closed",0,2,48,1,-1
+FELIX-3300,2012-01-08,"Date: 2012-02-11T09:29:13.142-08:00, From: Open To: Closed",0,2,90,1,-3
+FELIX-3299,2012-01-08,"Date: 2012-02-11T06:51:21.939-08:00, From: Open To: Closed",0,2,27,1,-1
+FELIX-3298,2012-01-06,"Date: 2012-01-06T07:10:47.552-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.107-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3297,2012-01-06,"Date: 2012-02-09T02:46:27.425-08:00, From: Open To: In ProgressDate: 2012-02-09T08:50:28.877-08:00, From: In Progress To: ResolvedDate: 2013-02-04T04:33:26.450-08:00, From: Resolved To: Closed",0,5,209,2,-2
+FELIX-3296,2012-01-05,"Date: 2012-05-03T13:39:03.633-07:00, From: Open To: Resolved",0,12,910,3,-3
+FELIX-3295,2012-01-05,"Date: 2012-01-05T03:30:30.571-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:02.816-07:00, From: Resolved To: Closed",0,1,39,1,-1
+FELIX-3294,2012-01-04,"Date: 2012-03-16T01:17:12.462-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:49.841-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3293,2012-01-03,"Date: 2013-04-01T16:49:49.267-07:00, From: Open To: ResolvedDate: 2013-06-12T16:46:25.451-07:00, From: Resolved To: Closed",0,4,87,1,-1
+FELIX-3292,2011-12-29,"Date: 2012-01-02T06:58:55.503-08:00, From: Open To: Resolved",0,5,349,1,-1
+FELIX-3291,2011-12-28,"Date: 2011-12-28T00:19:03.354-08:00, From: Open To: Resolved",0,1,22,1,-1
+FELIX-3290,2011-12-22,"Date: 2011-12-22T04:54:07.417-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.833-08:00, From: Resolved To: Closed",0,2,48,1,-1
+FELIX-3289,2011-12-22,"Date: 2012-06-26T11:41:59.476-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-3288,2011-12-20,"Date: 2012-01-29T23:13:07.646-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.663-08:00, From: Resolved To: Closed",0,7,132,1,-2
+FELIX-3287,2011-12-20,"Date: 2012-01-07T21:00:02.083-08:00, From: Open To: Resolved",0,4,208,2,-2
+FELIX-3286,2011-12-19,"Date: 2013-02-26T05:50:46.492-08:00, From: Open To: Closed",0,0,2,1,-1
+FELIX-3285,2011-12-19,"Date: 2011-12-19T04:36:41.187-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.203-08:00, From: Resolved To: Closed",0,3,37,1,-1
+FELIX-3284,2011-12-19,"Date: 2011-12-19T00:14:04.516-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.081-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3283,2011-12-17,"Date: 2011-12-17T10:12:37.384-08:00, From: Open To: ResolvedDate: 2012-01-05T01:06:09.754-08:00, From: Resolved To: ReopenedDate: 2012-01-06T07:12:09.014-08:00, From: Reopened To: Closed",1,4,166,1,-1
+FELIX-3282,2011-12-17,"Date: 2011-12-17T08:21:48.800-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.792-08:00, From: Resolved To: Closed",0,2,91,1,-1
+FELIX-3281,2011-12-17,"Date: 2011-12-17T04:36:27.035-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.488-08:00, From: Resolved To: Closed",0,2,75,1,-1
+FELIX-3280,2011-12-17,"Date: 2011-12-17T04:17:51.180-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.663-08:00, From: Resolved To: Closed",0,2,51,1,-1
+FELIX-3279,2011-12-17,"Date: 2011-12-17T03:16:50.100-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.241-08:00, From: Resolved To: Closed",0,2,41,1,-1
+FELIX-3278,2011-12-16,"Date: 2011-12-16T01:18:42.269-08:00, From: Open To: Closed",0,3,83,1,-3
+FELIX-3277,2011-12-15,"Date: 2013-04-01T16:06:53.662-07:00, From: Open To: Closed",0,2,41,1,-1
+FELIX-3276,2011-12-15,"Date: 2011-12-15T07:22:42.409-08:00, From: Open To: Resolved",0,1,22,1,-1
+FELIX-3275,2011-12-15,"Date: 2011-12-15T06:07:48.222-08:00, From: Open To: Resolved",0,1,22,1,-1
+FELIX-3274,2011-12-15,"Date: 2011-12-15T05:48:26.621-08:00, From: Open To: Resolved",0,1,23,1,-1
+FELIX-3273,2011-12-15,"Date: 2013-02-05T06:24:58.751-08:00, From: Open To: Resolved",0,6,491,2,-2
+FELIX-3272,2011-12-14,"Date: 2012-01-23T07:11:47.480-08:00, From: Open To: ResolvedDate: 2012-01-23T07:14:31.019-08:00, From: Resolved To: Closed",0,3,61,2,-1
+FELIX-3271,2011-12-14,"Date: 2011-12-14T09:23:37.513-08:00, From: Open To: ResolvedDate: 2012-05-14T07:58:27.902-07:00, From: Resolved To: Closed",0,2,31,1,-1
+FELIX-3270,2011-12-13,"Date: 2011-12-13T12:11:42.218-08:00, From: Open To: ResolvedDate: 2014-04-01T05:48:25.990-07:00, From: Resolved To: Closed",0,1,20,1,-1
+FELIX-3269,2011-12-13,"Date: 2012-08-31T07:12:00.594-07:00, From: Open To: ResolvedDate: 2012-08-31T07:18:47.429-07:00, From: Resolved To: Closed",0,3,130,2,-1
+FELIX-3268,2011-12-13,"Date: 2011-12-17T05:58:51.910-08:00, From: Open To: ResolvedDate: 2012-01-26T03:00:21.582-08:00, From: Resolved To: ReopenedDate: 2012-03-26T10:42:27.888-07:00, From: Reopened To: ResolvedDate: 2012-11-22T22:54:48.328-08:00, From: Resolved To: Closed",1,7,197,1,-1
+FELIX-3267,2011-12-12,,0,1,74,1,-1
+FELIX-3266,2011-12-10,"Date: 2011-12-10T22:03:52.412-08:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-3265,2011-12-09,"Date: 2013-08-14T09:10:09.302-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:00.796-07:00, From: Resolved To: Closed",0,3,115,1,-1
+FELIX-3264,2011-12-09,"Date: 2011-12-09T08:46:20.426-08:00, From: Open To: Resolved",0,1,26,1,-1
+FELIX-3263,2011-12-08,,0,4,261,2,-2
+FELIX-3262,2011-12-07,"Date: 2012-05-03T13:35:38.668-07:00, From: Open To: Resolved",0,3,92,2,-1
+FELIX-3261,2011-12-06,,0,0,2,1,-1
+FELIX-3260,2011-12-06,,0,1,48,1,-1
+FELIX-3259,2011-12-06,"Date: 2011-12-06T00:21:25.072-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:01.066-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3258,2011-12-05,"Date: 2011-12-05T07:23:54.954-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:03.079-07:00, From: Resolved To: Closed",0,2,79,1,-2
+FELIX-3257,2011-12-05,"Date: 2011-12-05T21:44:13.032-08:00, From: Open To: ResolvedDate: 2011-12-06T01:47:32.821-08:00, From: Resolved To: Closed",0,1,43,2,-1
+FELIX-3256,2011-12-05,"Date: 2011-12-05T23:59:02.040-08:00, From: Open To: Resolved",0,1,23,1,-1
+FELIX-3255,2011-12-05,,0,0,2,1,-1
+FELIX-3254,2011-12-04,"Date: 2012-02-11T10:34:39.906-08:00, From: Open To: Closed",0,5,441,2,-2
+FELIX-3253,2011-12-04,"Date: 2011-12-15T05:14:58.399-08:00, From: Open To: Resolved",0,1,22,1,-1
+FELIX-3252,2011-12-03,"Date: 2011-12-06T06:11:22.599-08:00, From: Open To: ResolvedDate: 2012-05-14T07:58:25.758-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3251,2011-12-01,"Date: 2011-12-04T00:19:30.477-08:00, From: Open To: ResolvedDate: 2011-12-05T08:45:08.836-08:00, From: Resolved To: Closed",0,2,50,2,-1
+FELIX-3250,2011-12-01,"Date: 2011-12-02T01:02:55.455-08:00, From: Open To: Closed",0,3,97,1,-2
+FELIX-3249,2011-11-30,"Date: 2011-12-01T01:40:29.939-08:00, From: Open To: ResolvedDate: 2011-12-01T02:08:45.292-08:00, From: Resolved To: Closed",0,3,45,2,-1
+FELIX-3248,2011-11-28,,0,1,46,1,-1
+FELIX-3247,2011-11-28,"Date: 2011-12-14T00:46:04.915-08:00, From: Open To: ResolvedDate: 2012-08-24T04:31:48.253-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3246,2011-11-28,,0,2,43,1,-1
+FELIX-3245,2011-11-28,"Date: 2011-12-16T04:13:41.676-08:00, From: Open To: In ProgressDate: 2011-12-16T04:14:37.722-08:00, From: In Progress To: OpenDate: 2011-12-16T04:15:00.057-08:00, From: Open To: ResolvedDate: 2014-04-01T05:48:25.301-07:00, From: Resolved To: Closed",1,1,23,1,-1
+FELIX-3244,2011-11-27,"Date: 2011-12-01T01:41:15.318-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:33.057-08:00, From: Resolved To: Closed",0,2,36,2,-1
+FELIX-3243,2011-11-24,"Date: 2012-01-31T00:21:41.043-08:00, From: Open To: ResolvedDate: 2014-04-01T05:48:25.432-07:00, From: Resolved To: Closed",0,1,24,2,-1
+FELIX-3242,2011-11-23,"Date: 2013-02-05T10:10:07.986-08:00, From: Open To: Resolved",0,8,795,2,-2
+FELIX-3241,2011-11-23,,0,1,58,1,-1
+FELIX-3240,2011-11-23,"Date: 2011-11-23T11:18:10.909-08:00, From: Open To: Resolved",0,2,110,1,-2
+FELIX-3239,2011-11-23,"Date: 2014-05-24T05:02:45.743-07:00, From: Open To: In ProgressDate: 2014-05-24T05:36:03.539-07:00, From: In Progress To: ResolvedDate: 2014-07-30T00:16:55.402-07:00, From: Resolved To: Closed",0,5,228,1,-1
+FELIX-3238,2011-11-21,"Date: 2011-11-28T06:36:50.340-08:00, From: Open To: ResolvedDate: 2011-12-02T07:44:17.167-08:00, From: Resolved To: Closed",0,4,291,1,-1
+FELIX-3237,2011-11-18,"Date: 2011-11-18T16:14:23.414-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:03.484-07:00, From: Resolved To: Closed",0,2,40,1,-1
+FELIX-3236,2011-11-18,"Date: 2011-11-18T10:30:31.049-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.712-08:00, From: Resolved To: Closed",0,2,35,1,-1
+FELIX-3235,2011-11-18,"Date: 2011-11-18T07:22:58.518-08:00, From: Open To: ResolvedDate: 2011-11-18T07:27:22.684-08:00, From: Resolved To: Closed",0,4,158,2,-3
+FELIX-3234,2011-11-18,"Date: 2012-08-31T07:08:14.312-07:00, From: Open To: ResolvedDate: 2012-08-31T07:19:38.894-07:00, From: Resolved To: Closed",0,4,409,1,-2
+FELIX-3233,2011-11-17,"Date: 2011-11-17T03:18:04.293-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:36.301-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3232,2011-11-17,"Date: 2011-11-17T01:01:51.300-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.136-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3231,2011-11-16,"Date: 2011-11-17T02:07:45.686-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:33.894-07:00, From: Resolved To: Closed",0,3,77,1,-1
+FELIX-3230,2011-11-16,"Date: 2012-02-08T00:01:29.920-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.951-07:00, From: Resolved To: Closed",0,3,37,1,-1
+FELIX-3229,2011-11-16,"Date: 2011-11-16T02:35:43.214-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:37.099-07:00, From: Resolved To: Closed",0,2,49,1,-1
+FELIX-3228,2011-11-16,"Date: 2011-11-16T01:54:40.653-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:36.623-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3227,2011-11-16,"Date: 2011-11-16T00:52:31.551-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.473-07:00, From: Resolved To: Closed",0,3,52,1,-1
+FELIX-3226,2011-11-15,"Date: 2011-12-05T12:30:17.186-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.926-07:00, From: Resolved To: Closed",0,3,84,1,-1
+FELIX-3225,2011-11-14,"Date: 2011-11-15T00:04:59.850-08:00, From: Open To: Closed",0,3,59,1,-1
+FELIX-3224,2011-11-14,"Date: 2012-06-13T05:13:47.267-07:00, From: Open To: ResolvedDate: 2012-08-24T04:32:15.834-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3223,2011-11-14,"Date: 2012-06-13T05:16:46.478-07:00, From: Open To: ResolvedDate: 2015-04-23T06:32:51.206-07:00, From: Resolved To: Closed",0,2,144,1,-1
+FELIX-3222,2011-11-14,"Date: 2011-11-18T15:06:52.025-08:00, From: Open To: ResolvedDate: 2011-12-02T07:44:17.602-08:00, From: Resolved To: Closed",0,1,122,1,-1
+FELIX-3221,2011-11-14,"Date: 2011-11-18T03:06:00.682-08:00, From: Open To: ResolvedDate: 2011-11-21T01:40:53.483-08:00, From: Resolved To: Closed",0,2,81,2,-1
+FELIX-3220,2011-11-14,"Date: 2011-11-18T03:04:25.602-08:00, From: Open To: ResolvedDate: 2011-11-21T01:39:52.328-08:00, From: Resolved To: Closed",0,2,100,2,-1
+FELIX-3219,2011-11-13,,0,1,132,2,-1
+FELIX-3218,2011-11-13,"Date: 2011-11-16T01:32:33.248-08:00, From: Open To: Resolved",0,2,34,1,-1
+FELIX-3216,2011-11-10,,0,0,2,1,-1
+FELIX-3215,2011-11-10,,0,1,68,1,-1
+FELIX-3214,2011-11-10,,0,1,22,1,-1
+FELIX-3213,2011-11-10,"Date: 2011-11-29T00:52:15.824-08:00, From: Open To: Closed",0,1,29,1,-1
+FELIX-3212,2011-11-09,"Date: 2011-11-18T09:14:17.632-08:00, From: Open To: ResolvedDate: 2011-12-02T07:44:14.738-08:00, From: Resolved To: Closed",0,1,103,2,-1
+FELIX-3211,2011-11-09,"Date: 2011-11-09T20:44:38.985-08:00, From: Open To: ResolvedDate: 2011-11-10T06:41:25.168-08:00, From: Resolved To: ClosedDate: 2011-11-20T11:49:38.936-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:49:57.896-08:00, From: Reopened To: Closed",1,1,39,2,-1
+FELIX-3210,2011-11-09,"Date: 2011-11-18T15:28:10.069-08:00, From: Open To: ResolvedDate: 2011-12-02T07:44:16.231-08:00, From: Resolved To: Closed",0,1,54,1,-1
+FELIX-3209,2011-11-08,"Date: 2011-11-08T16:45:55.699-08:00, From: Open To: ResolvedDate: 2011-12-02T07:44:14.568-08:00, From: Resolved To: Closed",0,1,19,1,-1
+FELIX-3208,2011-11-08,"Date: 2011-11-18T15:28:55.943-08:00, From: Open To: In ProgressDate: 2011-11-28T07:06:34.271-08:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:15.839-08:00, From: Resolved To: Closed",0,1,31,1,-1
+FELIX-3207,2011-11-08,"Date: 2011-11-08T19:31:00.271-08:00, From: Open To: ResolvedDate: 2011-11-09T06:20:44.208-08:00, From: Resolved To: ClosedDate: 2011-11-20T11:47:10.502-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:47:30.401-08:00, From: Reopened To: Closed",1,3,45,2,-1
+FELIX-3206,2011-11-07,"Date: 2011-11-08T06:11:03.698-08:00, From: Open To: In ProgressDate: 2011-11-28T07:39:23.468-08:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:13.982-08:00, From: Resolved To: Closed",0,3,84,1,-1
+FELIX-3205,2011-11-07,"Date: 2011-11-08T00:31:51.739-08:00, From: Open To: ResolvedDate: 2011-11-08T09:16:34.153-08:00, From: Resolved To: ClosedDate: 2011-11-20T11:49:07.897-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:49:24.653-08:00, From: Reopened To: Closed",1,2,102,2,-1
+FELIX-3204,2011-11-07,"Date: 2011-11-22T03:29:54.092-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:29.965-08:00, From: Resolved To: Closed",0,5,176,2,-1
+FELIX-3203,2011-11-06,,0,1,37,1,-1
+FELIX-3202,2011-11-05,,0,14,1867,3,-3
+FELIX-3201,2011-11-04,"Date: 2011-11-04T06:42:21.320-07:00, From: Open To: Resolved",0,3,56,1,-1
+FELIX-3200,2011-11-03,"Date: 2011-11-03T16:43:25.407-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.631-07:00, From: Resolved To: Closed",0,2,97,1,-1
+FELIX-3199,2011-11-03,"Date: 2011-11-03T02:32:17.104-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:05.058-07:00, From: Resolved To: Closed",0,1,37,1,-1
+FELIX-3198,2011-11-03,"Date: 2011-11-03T02:02:27.696-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:05.186-07:00, From: Resolved To: Closed",0,3,459,2,-2
+FELIX-3197,2011-11-03,"Date: 2011-11-03T02:23:06.967-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.127-07:00, From: Resolved To: Closed",0,1,37,1,-1
+FELIX-3196,2011-11-03,"Date: 2011-11-03T11:44:19.370-07:00, From: Open To: ResolvedDate: 2011-11-07T09:13:37.829-08:00, From: Resolved To: ClosedDate: 2011-11-20T11:57:01.719-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:57:19.877-08:00, From: Reopened To: Closed",1,2,59,1,-1
+FELIX-3195,2011-11-02,,0,3,191,3,-2
+FELIX-3194,2011-10-31,"Date: 2011-10-31T09:31:53.647-07:00, From: Open To: ClosedDate: 2011-11-20T11:48:30.286-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:48:55.366-08:00, From: Reopened To: Closed",1,1,33,1,-1
+FELIX-3193,2011-10-31,"Date: 2011-10-31T11:20:33.199-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:22.677-08:00, From: Resolved To: Closed",0,1,33,1,-1
+FELIX-3192,2011-10-31,"Date: 2011-10-31T11:21:37.137-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:26.825-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3191,2011-10-27,,0,1,87,3,-1
+FELIX-3190,2011-10-27,"Date: 2011-10-31T11:19:40.552-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:26.991-07:00, From: Resolved To: Closed",0,3,35,2,-1
+FELIX-3189,2011-10-27,"Date: 2012-08-31T07:14:34.766-07:00, From: Open To: ResolvedDate: 2012-08-31T07:18:02.106-07:00, From: Resolved To: Closed",0,2,34,1,-1
+FELIX-3188,2011-10-26,"Date: 2011-10-26T05:25:59.416-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:16.540-08:00, From: Resolved To: Closed",0,2,72,2,-1
+FELIX-3187,2011-10-25,"Date: 2012-08-31T07:08:51.104-07:00, From: Open To: ResolvedDate: 2012-08-31T07:08:56.796-07:00, From: Resolved To: Closed",0,3,142,1,-1
+FELIX-3186,2011-10-25,"Date: 2012-01-02T11:23:52.084-08:00, From: Open To: Resolved",0,4,155,1,-1
+FELIX-3185,2011-10-23,"Date: 2011-10-23T14:51:57.748-07:00, From: Open To: In ProgressDate: 2011-10-26T16:14:40.354-07:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:16.027-08:00, From: Resolved To: Closed",0,1,55,1,-1
+FELIX-3184,2011-10-22,"Date: 2012-10-24T13:19:49.110-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.381-08:00, From: Resolved To: Closed",0,3,64,1,-1
+FELIX-3183,2011-10-22,"Date: 2011-10-22T05:27:49.847-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.085-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3182,2011-10-22,"Date: 2011-10-22T05:21:42.107-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.574-08:00, From: Resolved To: Closed",0,4,232,2,-3
+FELIX-3181,2011-10-21,"Date: 2011-10-21T11:44:11.796-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.001-07:00, From: Resolved To: Closed",0,2,52,1,-1
+FELIX-3180,2011-10-21,"Date: 2011-10-21T06:51:30.269-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.798-07:00, From: Resolved To: Closed",0,2,51,2,-1
+FELIX-3179,2011-10-21,,0,10,581,2,-3
+FELIX-3178,2011-10-21,"Date: 2011-11-10T23:54:35.113-08:00, From: Open To: ResolvedDate: 2011-11-11T00:07:33.792-08:00, From: Resolved To: ReopenedDate: 2011-11-18T14:09:01.697-08:00, From: Reopened To: ResolvedDate: 2011-11-21T01:12:48.943-08:00, From: Resolved To: Closed",1,18,876,3,-2
+FELIX-3177,2011-10-20,"Date: 2012-05-30T04:54:46.839-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:34.072-07:00, From: Resolved To: Closed",0,5,142,1,-1
+FELIX-3176,2011-10-20,"Date: 2012-02-08T00:02:12.243-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:36.463-07:00, From: Resolved To: Closed",0,5,155,1,-1
+FELIX-3175,2011-10-20,"Date: 2011-10-20T05:16:36.693-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:34.608-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3174,2011-10-20,"Date: 2011-10-20T04:40:14.981-07:00, From: Open To: Closed",0,6,640,3,-2
+FELIX-3173,2011-10-19,"Date: 2011-10-23T13:18:46.351-07:00, From: Open To: ResolvedDate: 2011-10-24T01:23:39.683-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-3172,2011-10-18,"Date: 2011-10-19T08:11:51.083-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:28.989-07:00, From: Resolved To: Closed",0,5,209,2,-2
+FELIX-3171,2011-10-18,"Date: 2013-07-31T02:33:32.148-07:00, From: Open To: Closed",0,5,248,2,-1
+FELIX-3170,2011-10-17,"Date: 2012-08-31T07:05:01.564-07:00, From: Open To: ResolvedDate: 2012-08-31T07:05:12.745-07:00, From: Resolved To: Closed",0,6,533,2,-1
+FELIX-3169,2011-10-17,"Date: 2013-01-25T02:09:22.198-08:00, From: Open To: ResolvedDate: 2013-02-18T00:04:56.793-08:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-3168,2011-10-17,"Date: 2011-12-17T07:28:23.692-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.119-08:00, From: Resolved To: Closed",0,2,84,1,-2
+FELIX-3167,2011-10-17,"Date: 2012-10-18T05:49:47.952-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:51.727-08:00, From: Resolved To: Closed",0,2,54,1,-1
+FELIX-3166,2011-10-16,"Date: 2011-10-17T07:04:52.559-07:00, From: Open To: ResolvedDate: 2011-10-17T08:08:04.686-07:00, From: Resolved To: ClosedDate: 2011-11-20T11:47:57.112-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:48:15.442-08:00, From: Reopened To: Closed",1,3,47,2,-1
+FELIX-3165,2011-10-15,"Date: 2011-10-16T10:55:59.220-07:00, From: Open To: In ProgressDate: 2011-10-16T10:56:33.093-07:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:14.379-08:00, From: Resolved To: Closed",0,2,63,1,-1
+FELIX-3164,2011-10-14,"Date: 2011-10-21T02:46:18.673-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:34.409-08:00, From: Resolved To: Closed",0,1,45,1,-1
+FELIX-3163,2011-10-13,"Date: 2011-10-20T05:15:40.119-07:00, From: Open To: Closed",0,10,787,2,-2
+FELIX-3162,2011-10-13,"Date: 2011-11-03T03:26:30.989-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:00.655-07:00, From: Resolved To: Closed",0,1,40,1,-1
+FELIX-3161,2011-10-12,"Date: 2011-10-12T23:40:28.133-07:00, From: Open To: Closed",0,1,33,1,-1
+FELIX-3160,2011-10-12,"Date: 2011-10-12T06:42:26.793-07:00, From: Open To: In ProgressDate: 2012-06-16T12:30:38.686-07:00, From: In Progress To: Closed",0,29,2160,3,-4
+FELIX-3159,2011-10-11,"Date: 2011-10-19T02:12:02.248-07:00, From: Open To: ResolvedDate: 2015-04-23T06:30:49.207-07:00, From: Resolved To: Closed",0,5,63,2,-1
+FELIX-3158,2011-10-11,"Date: 2011-10-11T11:10:26.589-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.295-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3157,2011-10-11,,0,0,2,1,-1
+FELIX-3156,2011-10-11,"Date: 2011-10-15T13:59:49.427-07:00, From: Open To: ResolvedDate: 2011-10-15T17:39:40.521-07:00, From: Resolved To: ClosedDate: 2011-11-20T11:46:18.549-08:00, From: Closed To: ReopenedDate: 2011-11-20T11:46:49.055-08:00, From: Reopened To: Closed",1,4,81,2,-1
+FELIX-3155,2011-10-11,"Date: 2011-10-13T09:48:19.241-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:27.567-07:00, From: Resolved To: Closed",0,4,118,1,-1
+FELIX-3154,2011-10-10,"Date: 2011-10-11T11:34:52.094-07:00, From: Open To: Closed",0,6,437,2,-1
+FELIX-3153,2011-10-10,"Date: 2011-10-10T13:00:42.192-07:00, From: Open To: Resolved",0,9,759,2,-2
+FELIX-3152,2011-10-10,,0,8,223,2,-1
+FELIX-3151,2011-10-09,,0,1,208,1,-2
+FELIX-3150,2011-10-06,"Date: 2011-10-10T08:58:42.047-07:00, From: Open To: ResolvedDate: 2011-10-15T17:38:29.914-07:00, From: Resolved To: Closed",0,1,56,2,-1
+FELIX-3149,2011-10-05,"Date: 2011-10-07T04:35:41.769-07:00, From: Open To: ResolvedDate: 2015-04-23T06:30:28.294-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3148,2011-10-05,,0,5,178,2,-1
+FELIX-3147,2011-10-04,,0,6,308,2,-1
+FELIX-3146,2011-10-04,,0,5,393,4,-1
+FELIX-3145,2011-10-04,"Date: 2011-11-14T02:45:43.625-08:00, From: Open To: ResolvedDate: 2013-02-04T04:33:23.642-08:00, From: Resolved To: Closed",0,5,205,2,-1
+FELIX-3144,2011-10-04,"Date: 2011-10-05T07:58:33.280-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:27.380-07:00, From: Resolved To: Closed",0,2,48,1,-1
+FELIX-3143,2011-10-03,,0,0,2,1,-1
+FELIX-3142,2011-09-30,,0,0,2,1,-1
+FELIX-3141,2011-09-30,"Date: 2011-09-30T10:37:59.294-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-3140,2011-09-30,"Date: 2014-07-14T06:36:14.894-07:00, From: Open To: ResolvedDate: 2015-08-10T22:08:17.901-07:00, From: Resolved To: Closed",0,3,109,1,-2
+FELIX-3139,2011-09-29,"Date: 2013-05-28T03:11:15.448-07:00, From: Open To: ResolvedDate: 2014-04-01T05:46:57.071-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3138,2011-09-28,"Date: 2011-09-28T10:06:45.157-07:00, From: Open To: Closed",0,1,29,1,-1
+FELIX-3137,2011-09-28,"Date: 2011-09-28T10:07:09.845-07:00, From: Open To: Closed",0,1,29,1,-1
+FELIX-3136,2011-09-28,"Date: 2011-09-28T06:38:44.745-07:00, From: Open To: ResolvedDate: 2011-11-15T08:19:04.828-08:00, From: Resolved To: Closed",0,1,43,2,-2
+FELIX-3135,2011-09-27,"Date: 2011-12-17T10:27:43.201-08:00, From: Open To: Resolved",0,3,64,1,-2
+FELIX-3134,2011-09-26,"Date: 2011-09-26T23:56:26.326-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:03.878-07:00, From: Resolved To: Closed",0,1,30,1,-1
+FELIX-3133,2011-09-25,"Date: 2011-09-25T16:52:42.078-07:00, From: Open To: Closed",0,6,308,1,-3
+FELIX-3132,2011-09-25,"Date: 2011-09-25T12:06:13.616-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.416-08:00, From: Resolved To: Closed",0,2,44,1,-1
+FELIX-3131,2011-09-25,"Date: 2011-09-25T06:07:23.101-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:23.441-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3130,2011-09-23,"Date: 2011-09-26T06:48:44.397-07:00, From: Open To: In ProgressDate: 2011-09-26T22:25:59.170-07:00, From: In Progress To: ResolvedDate: 2012-05-14T07:59:08.654-07:00, From: Resolved To: Closed",0,5,97,1,-1
+FELIX-3129,2011-09-23,,0,1,70,1,-1
+FELIX-3128,2011-09-22,"Date: 2011-11-18T01:41:25.868-08:00, From: Open To: Resolved",0,5,150,2,-1
+FELIX-3127,2011-09-22,"Date: 2011-09-22T12:31:58.073-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.531-07:00, From: Resolved To: Closed",0,1,24,1,-1
+FELIX-3126,2011-09-22,"Date: 2011-10-11T11:23:52.628-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.092-08:00, From: Resolved To: Closed",0,3,78,2,-1
+FELIX-3125,2011-09-20,"Date: 2011-09-20T12:41:02.790-07:00, From: Open To: Closed",0,1,38,1,-1
+FELIX-3124,2011-09-20,"Date: 2011-09-20T13:15:02.391-07:00, From: Open To: Closed",0,1,29,1,-1
+FELIX-3123,2011-09-20,"Date: 2011-09-20T14:37:41.830-07:00, From: Open To: Closed",0,1,38,1,-1
+FELIX-3122,2011-09-20,"Date: 2011-09-20T11:37:28.195-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-3121,2011-09-20,"Date: 2011-09-20T08:10:32.441-07:00, From: Open To: ResolvedDate: 2012-09-18T13:06:44.833-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3120,2011-09-19,,0,0,2,1,-1
+FELIX-3119,2011-09-17,"Date: 2011-09-19T12:00:54.876-07:00, From: Open To: ResolvedDate: 2011-09-20T16:03:04.883-07:00, From: Resolved To: ClosedDate: 2011-09-21T08:45:24.342-07:00, From: Closed To: ReopenedDate: 2011-09-21T08:51:57.719-07:00, From: Reopened To: ResolvedDate: 2015-03-16T23:50:35.182-07:00, From: Resolved To: Closed",1,6,97,2,-2
+FELIX-3118,2011-09-15,"Date: 2011-09-20T11:32:25.624-07:00, From: Open To: Resolved",0,4,137,2,-1
+FELIX-3117,2011-09-15,"Date: 2011-09-27T05:20:50.020-07:00, From: Open To: ResolvedDate: 2011-11-15T08:19:04.643-08:00, From: Resolved To: Closed",0,1,44,1,-1
+FELIX-3116,2011-09-15,"Date: 2011-09-15T00:06:56.736-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.770-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3115,2011-09-14,"Date: 2011-09-21T08:31:27.674-07:00, From: Open To: ClosedDate: 2011-09-21T08:45:35.789-07:00, From: Closed To: ReopenedDate: 2011-09-21T08:46:27.563-07:00, From: Reopened To: Closed",1,3,105,1,-1
+FELIX-3113,2011-09-13,"Date: 2011-09-28T07:24:57.115-07:00, From: Open To: ResolvedDate: 2011-11-15T08:19:04.461-08:00, From: Resolved To: Closed",0,3,130,3,-1
+FELIX-3112,2011-09-12,"Date: 2012-03-16T03:07:15.754-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:48.683-07:00, From: Resolved To: Closed",0,1,46,1,-1
+FELIX-3111,2011-09-12,"Date: 2011-09-14T08:08:22.679-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.169-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3110,2011-09-12,"Date: 2011-09-12T04:10:26.195-07:00, From: Open To: Resolved",0,1,28,1,-1
+FELIX-3109,2011-09-08,"Date: 2011-09-08T06:16:02.164-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:47.476-07:00, From: Resolved To: Closed",0,1,21,1,-1
+FELIX-3108,2011-09-07,"Date: 2011-09-07T03:48:47.684-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.758-08:00, From: Resolved To: Closed",0,3,43,2,-1
+FELIX-3107,2011-09-07,"Date: 2011-09-12T07:48:47.341-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.939-08:00, From: Resolved To: Closed",0,2,25,1,-1
+FELIX-3106,2011-09-06,"Date: 2011-09-07T02:26:39.085-07:00, From: Open To: ResolvedDate: 2011-09-07T05:29:49.948-07:00, From: Resolved To: Closed",0,1,54,2,-1
+FELIX-3105,2011-09-06,"Date: 2012-03-26T08:12:39.269-07:00, From: Open To: ResolvedDate: 2012-03-26T08:12:59.302-07:00, From: Resolved To: Closed",0,3,89,1,-1
+FELIX-3104,2011-09-05,"Date: 2015-10-02T02:24:07.708-07:00, From: Open To: Resolved",0,5,220,3,-1
+FELIX-3103,2011-09-05,"Date: 2013-11-11T13:04:31.679-08:00, From: Open To: ResolvedDate: 2015-08-01T02:22:24.828-07:00, From: Resolved To: Closed",0,2,26,1,-1
+FELIX-3102,2011-09-05,"Date: 2011-09-23T06:39:31.198-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:01.330-07:00, From: Resolved To: Closed",0,4,113,1,-1
+FELIX-3101,2011-09-02,"Date: 2011-09-12T03:18:43.941-07:00, From: Open To: Resolved",0,3,183,2,-2
+FELIX-3100,2011-09-01,"Date: 2011-09-12T07:49:08.628-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.476-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3099,2011-09-01,"Date: 2011-09-12T07:49:00.373-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.882-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3098,2011-09-01,"Date: 2011-09-04T00:53:20.533-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:27.081-08:00, From: Resolved To: Closed",0,2,40,2,-1
+FELIX-3097,2011-08-31,"Date: 2015-03-05T00:30:48.237-08:00, From: Open To: ResolvedDate: 2015-03-16T23:52:14.399-07:00, From: Resolved To: Closed",0,5,214,1,-1
+FELIX-3096,2011-08-30,"Date: 2011-09-12T14:44:23.853-07:00, From: Open To: ResolvedDate: 2011-09-13T01:01:33.510-07:00, From: Resolved To: Closed",0,4,342,2,-1
+FELIX-3095,2011-08-30,,0,16,1805,3,-3
+FELIX-3094,2011-08-29,"Date: 2011-08-29T08:12:36.138-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-3093,2011-08-29,"Date: 2011-08-29T01:39:12.246-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.743-08:00, From: Resolved To: Closed",0,2,34,1,-1
+FELIX-3092,2011-08-28,"Date: 2011-10-11T10:04:25.518-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:15.249-08:00, From: Resolved To: Closed",0,2,48,1,-1
+FELIX-3091,2011-08-27,"Date: 2011-08-27T19:08:56.056-07:00, From: Open To: Closed",0,2,157,1,-3
+FELIX-3090,2011-08-27,"Date: 2011-08-29T02:28:23.018-07:00, From: Open To: ResolvedDate: 2012-02-17T03:23:36.071-08:00, From: Resolved To: ReopenedDate: 2012-02-17T05:28:42.257-08:00, From: Reopened To: ResolvedDate: 2012-11-20T02:58:17.931-08:00, From: Resolved To: Closed",1,13,1171,2,-3
+FELIX-3089,2011-08-26,"Date: 2011-08-29T00:07:50.823-07:00, From: Open To: ResolvedDate: 2011-10-11T23:52:37.549-07:00, From: Resolved To: Closed",0,3,104,2,-1
+FELIX-3088,2011-08-26,"Date: 2011-08-26T06:27:11.072-07:00, From: Open To: Closed",0,1,38,1,-2
+FELIX-3087,2011-08-25,"Date: 2011-10-09T07:04:14.620-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.368-08:00, From: Resolved To: Closed",0,7,253,1,-2
+FELIX-3086,2011-08-25,"Date: 2011-09-02T02:31:10.271-07:00, From: Open To: ResolvedDate: 2011-10-11T23:51:47.090-07:00, From: Resolved To: Closed",0,2,54,2,-1
+FELIX-3085,2011-08-25,"Date: 2011-08-31T11:21:56.287-07:00, From: Open To: ResolvedDate: 2011-08-31T16:45:43.450-07:00, From: Resolved To: Closed",0,8,430,2,-3
+FELIX-3084,2011-08-25,"Date: 2011-12-05T21:34:24.120-08:00, From: Open To: Closed",0,17,486,2,-3
+FELIX-3083,2011-08-24,"Date: 2011-08-24T08:58:34.265-07:00, From: Open To: Closed",0,1,20,1,-1
+FELIX-3082,2011-08-24,"Date: 2011-08-25T12:40:47.792-07:00, From: Open To: Closed",0,1,74,1,-1
+FELIX-3081,2011-08-18,"Date: 2012-05-14T07:56:46.022-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:24.534-07:00, From: Resolved To: Closed",0,2,30,1,-1
+FELIX-3080,2011-08-18,"Date: 2011-12-01T01:42:17.267-08:00, From: Open To: ResolvedDate: 2013-02-04T04:33:19.622-08:00, From: Resolved To: Closed",0,1,35,3,-1
+FELIX-3079,2011-08-18,"Date: 2011-09-04T01:59:34.969-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:21.104-08:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3078,2011-08-18,"Date: 2011-09-04T01:59:21.572-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:26.013-08:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3077,2011-08-17,"Date: 2011-08-17T06:53:45.737-07:00, From: Open To: ResolvedDate: 2012-08-24T04:31:47.666-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3076,2011-08-15,"Date: 2016-05-11T00:21:57.809-07:00, From: Open To: ResolvedDate: 2016-07-11T21:54:20.707-07:00, From: Resolved To: Closed",0,1,44,1,-1
+FELIX-3075,2011-08-10,"Date: 2011-08-12T03:18:29.768-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:27.202-07:00, From: Resolved To: Closed",0,4,62,2,-1
+FELIX-3074,2011-08-09,,0,0,2,1,-1
+FELIX-3073,2011-08-09,"Date: 2011-10-16T12:26:48.922-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:17.807-08:00, From: Resolved To: Closed",0,2,64,1,-2
+FELIX-3072,2011-08-09,"Date: 2011-09-29T06:56:48.712-07:00, From: Open To: ResolvedDate: 2014-04-01T05:48:25.703-07:00, From: Resolved To: Closed",0,2,78,1,-1
+FELIX-3071,2011-08-07,"Date: 2011-09-20T12:14:51.934-07:00, From: Open To: Closed",0,3,119,1,-1
+FELIX-3070,2011-08-06,"Date: 2011-09-27T05:58:36.563-07:00, From: Open To: ResolvedDate: 2011-11-15T08:20:41.911-08:00, From: Resolved To: Closed",0,3,77,2,-2
+FELIX-3069,2011-08-05,"Date: 2013-02-26T05:48:42.458-08:00, From: Open To: Closed",0,3,229,3,-2
+FELIX-3068,2011-08-05,,0,0,2,1,-1
+FELIX-3067,2011-08-04,,0,26,1733,2,-3
+FELIX-3066,2011-08-04,"Date: 2011-08-11T02:27:57.198-07:00, From: Open To: ResolvedDate: 2011-11-15T08:20:41.698-08:00, From: Resolved To: Closed",0,2,35,1,-1
+FELIX-3065,2011-08-02,"Date: 2011-10-16T13:05:24.622-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:17.980-08:00, From: Resolved To: Closed",0,3,235,3,-1
+FELIX-3064,2011-08-02,"Date: 2011-08-04T08:37:10.392-07:00, From: Open To: Closed",0,7,388,2,-2
+FELIX-3063,2011-07-30,,0,1,20,1,-1
+FELIX-3062,2011-07-30,"Date: 2011-07-30T08:50:01.879-07:00, From: Open To: Closed",0,1,32,1,-1
+FELIX-3061,2011-07-30,"Date: 2011-10-11T09:44:31.072-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:14.956-08:00, From: Resolved To: Closed",0,3,30,1,-1
+FELIX-3060,2011-07-29,"Date: 2013-06-07T08:01:04.300-07:00, From: Open To: Closed",0,4,113,1,-1
+FELIX-3059,2011-07-27,"Date: 2011-08-11T08:37:28.167-07:00, From: Open To: ResolvedDate: 2011-08-11T08:57:20.306-07:00, From: Resolved To: Closed",0,10,1402,2,-3
+FELIX-3058,2011-07-27,"Date: 2011-10-11T08:52:16.078-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:17.406-08:00, From: Resolved To: Closed",0,3,92,1,-1
+FELIX-3057,2011-07-27,"Date: 2011-07-27T02:44:37.742-07:00, From: Open To: Resolved",0,1,28,1,-1
+FELIX-3056,2011-07-26,"Date: 2011-08-02T09:11:08.923-07:00, From: Open To: Closed",0,2,66,1,-3
+FELIX-3055,2011-07-26,"Date: 2011-07-28T01:13:37.438-07:00, From: Open To: ResolvedDate: 2015-08-01T04:33:27.049-07:00, From: Resolved To: Closed",0,7,332,3,-3
+FELIX-3054,2011-07-25,"Date: 2014-02-12T00:54:36.644-08:00, From: Open To: ResolvedDate: 2014-06-13T02:27:17.568-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3053,2011-07-25,"Date: 2011-07-25T04:56:48.734-07:00, From: Open To: ResolvedDate: 2015-08-01T04:33:55.892-07:00, From: Resolved To: Closed",0,2,71,1,-1
+FELIX-3052,2011-07-22,"Date: 2011-07-22T07:33:44.565-07:00, From: Open To: Closed",0,1,35,1,-1
+FELIX-3051,2011-07-22,"Date: 2011-09-22T07:57:40.933-07:00, From: Open To: Closed",0,0,2,1,-1
+FELIX-3050,2011-07-22,"Date: 2011-09-20T11:33:23.037-07:00, From: Open To: Closed",0,5,209,2,-1
+FELIX-3049,2011-07-21,"Date: 2011-07-24T23:47:39.439-07:00, From: Open To: ResolvedDate: 2011-11-15T08:19:44.356-08:00, From: Resolved To: Closed",0,5,187,1,-2
+FELIX-3048,2011-07-20,"Date: 2013-08-14T03:17:57.762-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:03.614-07:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-3047,2011-07-19,"Date: 2012-03-16T02:00:50.005-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:48.874-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3046,2011-07-19,"Date: 2011-10-20T07:46:10.291-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:34.472-07:00, From: Resolved To: Closed",0,2,90,1,-1
+FELIX-3045,2011-07-18,"Date: 2011-10-21T12:03:33.536-07:00, From: Open To: Resolved",0,5,113,1,-1
+FELIX-3044,2011-07-18,"Date: 2011-08-11T12:20:51.244-07:00, From: Open To: ResolvedDate: 2011-10-12T09:49:14.293-07:00, From: Resolved To: Closed",0,6,114,1,-4
+FELIX-3043,2011-07-15,"Date: 2011-08-15T06:03:58.258-07:00, From: Open To: Closed",0,2,67,2,-1
+FELIX-3042,2011-07-15,"Date: 2011-11-15T22:30:02.825-08:00, From: Open To: Resolved",0,1,47,1,-1
+FELIX-3041,2011-07-14,"Date: 2011-07-14T09:48:27.936-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:37.435-07:00, From: Resolved To: Closed",0,4,167,2,-1
+FELIX-3040,2011-07-14,"Date: 2011-07-14T04:14:27.351-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.382-08:00, From: Resolved To: Closed",0,2,36,1,-1
+FELIX-3039,2011-07-13,"Date: 2011-10-17T03:06:33.087-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:15.910-08:00, From: Resolved To: Closed",0,6,283,2,-1
+FELIX-3038,2011-07-13,"Date: 2011-08-11T13:20:21.903-07:00, From: Open To: Resolved",0,1,34,2,-1
+FELIX-3037,2011-07-13,"Date: 2011-10-14T06:46:38.553-07:00, From: Open To: In ProgressDate: 2011-10-17T04:02:49.069-07:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:16.906-08:00, From: Resolved To: Closed",0,4,113,1,-1
+FELIX-3036,2011-07-13,"Date: 2011-07-17T08:41:57.916-07:00, From: Open To: ResolvedDate: 2011-07-18T04:03:25.903-07:00, From: Resolved To: Closed",0,2,24,1,-1
+FELIX-3035,2011-07-12,"Date: 2011-09-21T13:17:14.446-07:00, From: Open To: ResolvedDate: 2011-09-22T07:18:26.089-07:00, From: Resolved To: ReopenedDate: 2017-02-24T04:45:51.428-08:00, From: Reopened To: Closed",1,6,420,1,-1
+FELIX-3034,2011-07-12,"Date: 2017-02-24T04:44:45.648-08:00, From: Open To: Closed",0,1,157,1,-3
+FELIX-3033,2011-07-11,"Date: 2011-07-11T13:17:02.139-07:00, From: Open To: Closed",0,1,32,1,-1
+FELIX-3032,2011-07-11,"Date: 2011-08-02T07:31:13.351-07:00, From: Open To: Closed",0,2,60,1,-1
+FELIX-3031,2011-07-11,"Date: 2011-10-16T12:20:57.680-07:00, From: Open To: ResolvedDate: 2011-12-02T07:44:16.706-08:00, From: Resolved To: Closed",0,4,173,1,-2
+FELIX-3030,2011-07-07,"Date: 2011-11-20T23:49:25.716-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:28.952-08:00, From: Resolved To: Closed",0,2,505,2,-2
+FELIX-3029,2011-07-07,"Date: 2012-03-19T06:22:40.287-07:00, From: Open To: Resolved",0,4,143,1,-1
+FELIX-3028,2011-07-07,"Date: 2011-07-07T04:49:27.477-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.779-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3027,2011-07-07,"Date: 2011-07-14T04:13:54.393-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.052-08:00, From: Resolved To: Closed",0,2,31,1,-1
+FELIX-3026,2011-07-07,"Date: 2011-07-14T01:03:26.295-07:00, From: Open To: Resolved",0,1,26,1,-1
+FELIX-3025,2011-07-06,"Date: 2011-07-14T00:23:59.429-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.942-08:00, From: Resolved To: Closed",0,2,26,1,-1
+FELIX-3024,2011-07-06,"Date: 2011-07-07T04:56:10.938-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.630-08:00, From: Resolved To: Closed",0,2,30,1,-1
+FELIX-3023,2011-07-06,,0,5,410,1,-2
+FELIX-3022,2011-07-06,"Date: 2011-12-17T10:21:34.622-08:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.421-08:00, From: Resolved To: Closed",0,6,137,1,-1
+FELIX-3021,2011-07-03,"Date: 2011-07-03T21:31:17.859-07:00, From: Open To: ResolvedDate: 2011-07-05T01:10:08.621-07:00, From: Resolved To: Closed",0,4,199,2,-2
+FELIX-3020,2011-07-01,"Date: 2014-05-29T06:26:58.822-07:00, From: Open To: Resolved",0,6,354,3,-2
+FELIX-3019,2011-06-30,"Date: 2011-12-19T01:26:13.309-08:00, From: Open To: Closed",0,5,121,1,-1
+FELIX-3018,2011-06-30,,0,1,104,1,-1
+FELIX-3017,2011-06-30,"Date: 2011-06-30T02:13:37.627-07:00, From: Open To: ResolvedDate: 2013-02-04T04:33:20.505-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-3016,2011-06-29,"Date: 2012-05-31T09:44:13.826-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:16.567-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-3015,2011-06-27,"Date: 2011-06-28T07:49:24.486-07:00, From: Open To: ResolvedDate: 2011-06-28T10:25:18.321-07:00, From: Resolved To: ReopenedDate: 2011-08-31T10:50:07.663-07:00, From: Reopened To: Resolved",1,7,629,2,-2
+FELIX-3014,2011-06-27,"Date: 2011-09-12T07:03:33.474-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.367-08:00, From: Resolved To: Closed",0,2,79,1,-1
+FELIX-3013,2011-06-27,"Date: 2011-06-27T13:47:08.457-07:00, From: Open To: Resolved",0,2,83,2,-1
+FELIX-3012,2011-06-27,"Date: 2011-07-09T23:21:38.255-07:00, From: Open To: ResolvedDate: 2013-02-04T04:34:32.394-08:00, From: Resolved To: Closed",0,3,128,2,-1
+FELIX-3011,2011-06-23,"Date: 2011-06-28T16:35:51.784-07:00, From: Open To: ResolvedDate: 2011-10-11T10:09:18.476-07:00, From: Resolved To: Closed",0,1,87,1,-1
+FELIX-3010,2011-06-23,"Date: 2011-07-16T10:29:49.094-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.415-08:00, From: Resolved To: Closed",0,2,37,1,-1
+FELIX-3009,2011-06-22,"Date: 2011-07-03T11:23:36.713-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:28.087-07:00, From: Resolved To: Closed",0,4,143,1,-1
+FELIX-3008,2011-06-22,"Date: 2011-06-22T05:11:36.258-07:00, From: Open To: ResolvedDate: 2011-06-22T05:30:37.470-07:00, From: Resolved To: Closed",0,2,42,2,-1
+FELIX-3007,2011-06-21,"Date: 2011-06-21T05:43:33.285-07:00, From: Open To: Resolved",0,3,65,1,-1
+FELIX-3006,2011-06-20,"Date: 2015-02-27T06:30:21.027-08:00, From: Open To: ResolvedDate: 2015-03-16T01:19:37.646-07:00, From: Resolved To: Closed",0,14,819,2,-2
+FELIX-3005,2011-06-20,"Date: 2011-06-20T03:19:48.888-07:00, From: Open To: ResolvedDate: 2011-06-20T03:19:56.214-07:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-3004,2011-06-17,"Date: 2011-09-12T03:16:37.068-07:00, From: Open To: Resolved",0,8,235,2,-1
+FELIX-3003,2011-06-17,"Date: 2012-06-29T15:12:32.390-07:00, From: Open To: Resolved",0,16,1374,3,-3
+FELIX-3002,2011-06-16,"Date: 2011-06-16T06:26:27.204-07:00, From: Open To: ResolvedDate: 2015-08-01T04:32:55.395-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-3001,2011-06-16,"Date: 2011-06-16T03:57:42.617-07:00, From: Open To: In ProgressDate: 2011-06-16T04:06:09.044-07:00, From: In Progress To: ResolvedDate: 2011-06-16T09:01:52.251-07:00, From: Resolved To: Closed",0,1,26,1,-1
+FELIX-3000,2011-06-15,"Date: 2011-08-26T14:11:02.821-07:00, From: Open To: ResolvedDate: 2011-08-31T00:29:01.613-07:00, From: Resolved To: Closed",0,9,508,2,-3
+FELIX-2999,2011-06-15,"Date: 2011-06-15T14:04:37.860-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-2998,2011-06-15,"Date: 2011-06-15T09:12:10.495-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-2997,2011-06-14,"Date: 2011-07-13T06:59:28.202-07:00, From: Open To: ResolvedDate: 2015-08-01T04:33:12.531-07:00, From: Resolved To: Closed",0,2,44,1,-1
+FELIX-2996,2011-06-14,"Date: 2011-11-20T23:51:32.500-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:32.010-08:00, From: Resolved To: Closed",0,2,70,2,-1
+FELIX-2995,2011-06-13,"Date: 2011-06-13T03:15:44.842-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:26.190-07:00, From: Resolved To: Closed",0,2,29,1,-1
+FELIX-2994,2011-06-12,,0,2,294,1,-2
+FELIX-2993,2011-06-12,,0,28,1861,4,-2
+FELIX-2992,2011-06-10,"Date: 2012-03-07T20:50:51.210-08:00, From: Open To: ResolvedDate: 2012-11-20T02:58:17.148-08:00, From: Resolved To: Closed",0,4,186,1,-1
+FELIX-2991,2011-06-10,,0,7,421,1,-2
+FELIX-2990,2011-06-10,"Date: 2011-06-10T08:19:37.984-07:00, From: Open To: Closed",0,1,47,1,-1
+FELIX-2989,2011-06-10,"Date: 2011-06-10T03:58:45.214-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:26.637-07:00, From: Resolved To: Closed",0,2,31,1,-1
+FELIX-2988,2011-06-10,"Date: 2011-06-10T01:20:58.127-07:00, From: Open To: ResolvedDate: 2015-03-16T23:50:53.552-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-2987,2011-06-08,"Date: 2011-06-20T09:39:19.775-07:00, From: Open To: ResolvedDate: 2011-07-06T23:29:00.795-07:00, From: Resolved To: Closed",0,2,57,2,-1
+FELIX-2986,2011-06-07,"Date: 2011-09-09T10:52:34.392-07:00, From: Open To: Closed",0,2,119,1,-1
+FELIX-2985,2011-06-06,,0,1,36,1,-1
+FELIX-2984,2011-06-05,"Date: 2016-10-10T13:09:26.056-07:00, From: Open To: ResolvedDate: 2016-10-15T06:55:56.723-07:00, From: Resolved To: Closed",0,1,33,1,-1
+FELIX-2983,2011-06-04,"Date: 2011-08-11T13:57:50.177-07:00, From: Open To: ResolvedDate: 2011-08-11T18:42:21.309-07:00, From: Resolved To: Closed",0,3,128,3,-1
+FELIX-2982,2011-06-03,"Date: 2011-06-06T09:08:19.277-07:00, From: Open To: ResolvedDate: 2011-06-06T11:00:02.926-07:00, From: Resolved To: ReopenedDate: 2011-06-06T23:58:37.192-07:00, From: Reopened To: ResolvedDate: 2015-03-17T00:00:48.471-07:00, From: Resolved To: Closed",1,14,407,3,-1
+FELIX-2981,2011-06-03,"Date: 2011-10-02T02:09:54.399-07:00, From: Open To: ResolvedDate: 2011-10-06T08:38:02.373-07:00, From: Resolved To: ReopenedDate: 2011-10-08T08:16:11.211-07:00, From: Reopened To: ResolvedDate: 2012-05-14T07:58:24.792-07:00, From: Resolved To: Closed",1,6,232,2,-1
+FELIX-2980,2011-05-31,"Date: 2011-06-06T05:49:29.585-07:00, From: Open To: ResolvedDate: 2011-06-07T00:09:37.263-07:00, From: Resolved To: ReopenedDate: 2011-06-23T01:21:08.078-07:00, From: Reopened To: ResolvedDate: 2011-07-28T01:54:38.773-07:00, From: Resolved To: Closed",1,7,363,3,-2
+FELIX-2979,2011-05-31,"Date: 2011-05-31T04:49:08.240-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.259-08:00, From: Resolved To: Closed",0,2,41,1,-1
+FELIX-2978,2011-05-30,"Date: 2011-06-06T07:20:28.505-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:38.496-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-2977,2011-05-30,,0,0,2,1,-1
+FELIX-2976,2011-05-30,"Date: 2011-05-30T03:04:39.257-07:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-2975,2011-05-26,"Date: 2011-08-12T09:51:44.006-07:00, From: Open To: Closed",0,2,78,1,-1
+FELIX-2974,2011-05-26,"Date: 2014-02-12T05:33:54.056-08:00, From: Open To: ResolvedDate: 2014-06-13T02:27:16.890-07:00, From: Resolved To: Closed",0,1,45,1,-1
+FELIX-2973,2011-05-25,"Date: 2011-09-12T14:51:14.682-07:00, From: Open To: Closed",0,2,63,1,-1
+FELIX-2972,2011-05-24,"Date: 2011-06-27T07:31:14.494-07:00, From: Open To: ResolvedDate: 2011-10-11T10:09:18.736-07:00, From: Resolved To: Closed",0,3,260,1,-2
+FELIX-2971,2011-05-24,"Date: 2011-05-30T04:18:25.000-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:45.504-08:00, From: Resolved To: Closed",0,3,38,1,-1
+FELIX-2970,2011-05-24,"Date: 2011-05-24T03:06:05.199-07:00, From: Open To: ResolvedDate: 2011-05-24T03:06:13.209-07:00, From: Resolved To: Closed",0,1,26,1,-1
+FELIX-2969,2011-05-23,"Date: 2011-08-12T09:52:09.847-07:00, From: Open To: Closed",0,3,138,1,-1
+FELIX-2968,2011-05-23,"Date: 2011-06-05T08:41:10.217-07:00, From: Open To: Resolved",0,2,96,1,-1
+FELIX-2967,2011-05-22,,0,2,115,1,-1
+FELIX-2966,2011-05-21,"Date: 2011-05-21T15:19:35.942-07:00, From: Open To: Resolved",0,1,26,1,-1
+FELIX-2965,2011-05-21,"Date: 2011-05-21T15:19:16.889-07:00, From: Open To: Resolved",0,1,24,1,-1
+FELIX-2964,2011-05-21,"Date: 2011-05-21T14:31:02.506-07:00, From: Open To: Resolved",0,1,27,1,-1
+FELIX-2963,2011-05-20,"Date: 2011-07-13T07:40:00.127-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:37.246-07:00, From: Resolved To: ClosedDate: 2011-08-10T00:23:47.388-07:00, From: Closed To: ReopenedDate: 2011-08-16T00:45:24.643-07:00, From: Reopened To: ResolvedDate: 2011-11-15T08:19:04.143-08:00, From: Resolved To: Closed",1,15,603,3,-2
+FELIX-2962,2011-05-20,"Date: 2011-06-05T06:03:37.901-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:13.486-08:00, From: Resolved To: Closed",0,9,545,2,-4
+FELIX-2961,2011-05-20,"Date: 2016-05-11T00:00:41.412-07:00, From: Open To: ResolvedDate: 2016-07-11T21:53:04.418-07:00, From: Resolved To: Closed",0,15,1131,3,-4
+FELIX-2960,2011-05-20,"Date: 2011-05-31T05:41:08.564-07:00, From: Open To: Resolved",0,2,87,1,-2
+FELIX-2959,2011-05-19,"Date: 2011-05-25T08:11:10.853-07:00, From: Open To: Closed",0,1,36,1,-1
+FELIX-2958,2011-05-18,"Date: 2011-05-18T12:44:00.835-07:00, From: Open To: ResolvedDate: 2011-05-18T12:54:22.117-07:00, From: Resolved To: Closed",0,3,49,2,-1
+FELIX-2957,2011-05-18,"Date: 2011-05-18T07:03:07.159-07:00, From: Open To: ResolvedDate: 2011-07-28T01:56:01.809-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-2956,2011-05-18,"Date: 2011-05-18T04:44:33.875-07:00, From: Open To: ResolvedDate: 2011-05-18T04:45:34.629-07:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-2955,2011-05-18,"Date: 2011-05-18T07:37:04.284-07:00, From: Open To: Resolved",0,2,43,1,-1
+FELIX-2954,2011-05-18,"Date: 2011-05-18T03:14:49.086-07:00, From: Open To: ResolvedDate: 2011-05-18T03:17:13.659-07:00, From: Resolved To: Closed",0,1,26,1,-1
+FELIX-2953,2011-05-17,"Date: 2011-05-17T04:10:33.283-07:00, From: Open To: Resolved",0,1,43,1,-1
+FELIX-2952,2011-05-16,,0,0,2,1,-1
+FELIX-2951,2011-05-13,,0,9,346,2,-4
+FELIX-2950,2011-05-13,"Date: 2011-09-20T12:42:52.450-07:00, From: Open To: Closed",0,5,234,2,-3
+FELIX-2949,2011-05-13,,0,3,186,1,-2
+FELIX-2948,2011-05-12,"Date: 2011-05-18T23:00:45.419-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:38.154-07:00, From: Resolved To: Closed",0,8,319,2,-2
+FELIX-2947,2011-05-10,"Date: 2011-05-10T04:48:08.335-07:00, From: Open To: Resolved",0,1,30,1,-1
+FELIX-2946,2011-05-10,"Date: 2014-02-14T05:23:21.182-08:00, From: Open To: Closed",0,1,33,1,-1
+FELIX-2945,2011-05-09,"Date: 2011-05-12T07:06:36.235-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:38.637-07:00, From: Resolved To: Closed",0,3,53,3,-1
+FELIX-2944,2011-05-05,"Date: 2011-05-31T06:56:00.080-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.405-08:00, From: Resolved To: Closed",0,4,256,1,-2
+FELIX-2943,2011-05-05,"Date: 2011-05-05T06:03:40.344-07:00, From: Open To: ResolvedDate: 2011-07-28T01:56:01.924-07:00, From: Resolved To: Closed",0,5,121,3,-2
+FELIX-2942,2011-05-03,"Date: 2011-05-11T10:39:13.053-07:00, From: Open To: Resolved",0,1,72,1,-1
+FELIX-2941,2011-04-28,"Date: 2011-04-28T14:38:07.193-07:00, From: Open To: Resolved",0,5,249,2,-1
+FELIX-2940,2011-04-28,"Date: 2011-04-28T06:52:07.531-07:00, From: Open To: Closed",0,1,65,2,-1
+FELIX-2939,2011-04-28,"Date: 2011-05-02T07:19:25.997-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:38.289-07:00, From: Resolved To: Closed",0,2,39,1,-1
+FELIX-2938,2011-04-27,"Date: 2011-04-27T13:01:19.754-07:00, From: Open To: Closed",0,1,30,1,-1
+FELIX-2937,2011-04-27,"Date: 2011-04-27T13:01:33.724-07:00, From: Open To: ClosedDate: 2011-06-16T08:30:01.870-07:00, From: Closed To: ReopenedDate: 2011-06-16T08:31:08.292-07:00, From: Reopened To: Closed",1,2,39,1,-1
+FELIX-2936,2011-04-27,"Date: 2011-04-27T12:22:39.348-07:00, From: Open To: Closed",0,2,48,2,-1
+FELIX-2935,2011-04-27,"Date: 2011-05-09T08:49:49.973-07:00, From: Open To: Resolved",0,4,163,2,-1
+FELIX-2934,2011-04-26,"Date: 2011-06-24T13:26:22.931-07:00, From: Open To: ResolvedDate: 2011-10-11T10:09:16.835-07:00, From: Resolved To: Closed",0,1,19,1,-1
+FELIX-2933,2011-04-26,"Date: 2011-04-27T12:46:19.506-07:00, From: Open To: Resolved",0,1,232,2,-2
+FELIX-2932,2011-04-25,"Date: 2011-04-25T02:08:20.543-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:28.563-07:00, From: Resolved To: Closed",0,2,42,1,-1
+FELIX-2931,2011-04-23,"Date: 2011-06-24T05:35:30.307-07:00, From: Open To: Closed",0,2,57,1,-1
+FELIX-2930,2011-04-23,"Date: 2011-06-24T05:35:31.153-07:00, From: Open To: Closed",0,3,67,1,-1
+FELIX-2929,2011-04-21,"Date: 2013-01-25T05:40:18.452-08:00, From: Open To: In ProgressDate: 2013-01-25T05:41:12.303-08:00, From: In Progress To: ResolvedDate: 2013-02-18T00:05:29.367-08:00, From: Resolved To: Closed",0,3,113,1,-2
+FELIX-2928,2011-04-21,"Date: 2016-05-11T00:00:52.829-07:00, From: Open To: ResolvedDate: 2016-07-11T21:53:12.360-07:00, From: Resolved To: Closed",0,3,290,1,-2
+FELIX-2927,2011-04-21,"Date: 2011-06-12T07:02:43.322-07:00, From: Open To: ResolvedDate: 2015-03-17T00:06:32.891-07:00, From: Resolved To: Closed",0,1,34,1,-1
+FELIX-2926,2011-04-20,"Date: 2011-05-20T02:37:27.186-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:14.575-08:00, From: Resolved To: Closed",0,3,92,1,-2
+FELIX-2925,2011-04-20,"Date: 2013-03-30T23:08:04.308-07:00, From: Open To: Closed",0,4,121,3,-1
+FELIX-2924,2011-04-20,"Date: 2011-04-21T07:03:15.521-07:00, From: Open To: ResolvedDate: 2011-04-21T07:31:21.918-07:00, From: Resolved To: Closed",0,4,152,2,-1
+FELIX-2923,2011-04-19,"Date: 2016-05-20T22:28:46.560-07:00, From: Open To: Resolved",0,7,928,1,-3
+FELIX-2922,2011-04-19,"Date: 2011-09-12T03:13:40.927-07:00, From: Open To: Resolved",0,3,134,2,-2
+FELIX-2921,2011-04-18,"Date: 2011-04-18T08:58:44.661-07:00, From: Open To: ClosedDate: 2011-04-18T11:02:31.486-07:00, From: Closed To: ReopenedDate: 2011-04-18T12:42:05.664-07:00, From: Reopened To: ClosedDate: 2011-04-18T13:14:41.586-07:00, From: Closed To: Reopened",2,9,815,2,-2
+FELIX-2920,2011-04-18,,0,1,20,1,-1
+FELIX-2919,2011-04-18,,0,1,20,1,-1
+FELIX-2918,2011-04-15,"Date: 2011-06-03T12:44:45.717-07:00, From: Open To: Closed",0,7,794,2,-4
+FELIX-2917,2011-04-15,"Date: 2011-04-15T14:19:39.309-07:00, From: Open To: ResolvedDate: 2011-04-18T01:37:17.659-07:00, From: Resolved To: ClosedDate: 2011-04-18T07:06:58.414-07:00, From: Closed To: ReopenedDate: 2011-04-18T07:07:21.960-07:00, From: Reopened To: Closed",1,3,109,2,-1
+FELIX-2916,2011-04-15,"Date: 2011-04-20T05:40:27.366-07:00, From: Open To: ResolvedDate: 2011-06-24T05:36:52.709-07:00, From: Resolved To: Closed",0,4,130,2,-3
+FELIX-2915,2011-04-14,"Date: 2011-04-14T23:27:17.132-07:00, From: Open To: ResolvedDate: 2011-07-28T01:52:58.278-07:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-2914,2011-04-14,"Date: 2011-06-24T05:46:52.598-07:00, From: Open To: ResolvedDate: 2011-10-11T10:09:22.129-07:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-2913,2011-04-13,"Date: 2011-08-29T12:43:02.085-07:00, From: Open To: Closed",0,7,388,2,-1
+FELIX-2912,2011-04-12,"Date: 2011-05-11T07:43:30.314-07:00, From: Open To: ResolvedDate: 2011-05-11T07:47:52.182-07:00, From: Resolved To: Closed",0,4,82,2,-1
+FELIX-2911,2011-04-10,,0,4,126,1,-1
+FELIX-2910,2011-04-10,"Date: 2011-06-16T08:19:45.002-07:00, From: Open To: ResolvedDate: 2011-06-24T05:36:52.875-07:00, From: Resolved To: Closed",0,2,264,1,-2
+FELIX-2909,2011-04-08,"Date: 2011-04-18T13:51:37.861-07:00, From: Open To: Closed",0,1,53,2,-1
+FELIX-2908,2011-04-07,"Date: 2011-06-07T03:49:48.463-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:38.003-07:00, From: Resolved To: Closed",0,2,34,2,-1
+FELIX-2907,2011-04-07,"Date: 2011-04-10T08:19:17.959-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:26.401-07:00, From: Resolved To: Closed",0,3,48,2,-1
+FELIX-2906,2011-04-07,"Date: 2011-04-07T02:29:13.302-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:37.852-07:00, From: Resolved To: Closed",0,2,65,1,-1
+FELIX-2905,2011-04-07,"Date: 2013-08-14T06:56:51.610-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:02.660-07:00, From: Resolved To: Closed",0,1,40,1,-1
+FELIX-2904,2011-04-06,"Date: 2011-04-13T05:42:46.018-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:46.437-08:00, From: Resolved To: Closed",0,2,28,1,-1
+FELIX-2903,2011-04-06,"Date: 2011-04-06T08:03:33.839-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.542-08:00, From: Resolved To: Closed",0,2,30,1,-1
+FELIX-2902,2011-04-05,"Date: 2011-04-25T02:03:42.990-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:28.229-07:00, From: Resolved To: Closed",0,2,40,1,-1
+FELIX-2901,2011-04-05,"Date: 2011-04-07T12:31:12.426-07:00, From: Open To: ClosedDate: 2011-04-18T07:07:37.053-07:00, From: Closed To: ReopenedDate: 2011-04-18T07:08:03.561-07:00, From: Reopened To: Closed",1,2,48,1,-1
+FELIX-2900,2011-04-02,,0,0,2,1,-1
+FELIX-2899,2011-03-30,,0,8,449,4,-3
+FELIX-2898,2011-03-30,"Date: 2011-03-30T19:55:26.004-07:00, From: Open To: ClosedDate: 2011-03-30T20:04:07.715-07:00, From: Closed To: ReopenedDate: 2011-03-30T20:06:49.873-07:00, From: Reopened To: Closed",1,0,2,1,-1
+FELIX-2897,2011-03-30,"Date: 2011-09-23T06:01:14.667-07:00, From: Open To: ResolvedDate: 2013-09-28T10:40:02.194-07:00, From: Resolved To: Closed",0,5,159,2,-1
+FELIX-2896,2011-03-30,"Date: 2012-08-15T05:51:16.005-07:00, From: Open To: ResolvedDate: 2013-06-06T08:34:55.698-07:00, From: Resolved To: Closed",0,4,60,1,-1
+FELIX-2895,2011-03-29,"Date: 2011-10-09T11:10:16.984-07:00, From: Open To: ResolvedDate: 2012-11-20T02:58:18.013-08:00, From: Resolved To: Closed",0,14,600,2,-3
+FELIX-2894,2011-03-29,"Date: 2011-06-10T04:57:35.023-07:00, From: Open To: In ProgressDate: 2011-06-12T07:01:14.149-07:00, From: In Progress To: ResolvedDate: 2015-03-17T00:06:42.916-07:00, From: Resolved To: Closed",0,3,259,1,-1
+FELIX-2893,2011-03-28,"Date: 2011-04-02T09:36:23.357-07:00, From: Open To: ResolvedDate: 2012-05-14T07:58:25.418-07:00, From: Resolved To: Closed",0,3,56,1,-1
+FELIX-2892,2011-03-25,"Date: 2012-11-30T07:34:18.841-08:00, From: Open To: ResolvedDate: 2012-12-07T02:25:56.389-08:00, From: Resolved To: Closed",0,21,1153,3,-2
+FELIX-2891,2011-03-24,,0,1,132,1,-1
+FELIX-2890,2011-03-24,"Date: 2012-03-16T01:20:46.629-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:48.270-07:00, From: Resolved To: Closed",0,1,31,1,-1
+FELIX-2889,2011-03-21,"Date: 2011-09-12T07:12:39.853-07:00, From: Open To: ResolvedDate: 2011-09-12T10:32:35.033-07:00, From: Resolved To: ReopenedDate: 2011-09-12T22:59:30.000-07:00, From: Reopened To: ResolvedDate: 2012-11-22T22:54:46.084-08:00, From: Resolved To: ClosedDate: 2012-11-22T23:11:12.895-08:00, From: Closed To: ReopenedDate: 2012-11-22T23:11:29.502-08:00, From: Reopened To: Closed",2,7,244,2,-2
+FELIX-2888,2011-03-20,"Date: 2012-02-16T06:02:24.363-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:34.268-07:00, From: Resolved To: Closed",0,3,194,3,-2
+FELIX-2887,2011-03-18,"Date: 2011-09-19T11:54:26.891-07:00, From: Open To: ResolvedDate: 2011-09-20T16:04:51.821-07:00, From: Resolved To: Closed",0,3,59,2,-1
+FELIX-2886,2011-03-18,,0,1,131,1,-1
+FELIX-2885,2011-03-18,"Date: 2011-03-18T06:16:00.628-07:00, From: Open To: ResolvedDate: 2013-09-25T07:02:36.134-07:00, From: Resolved To: Closed",0,3,318,2,-2
+FELIX-2884,2011-03-18,"Date: 2011-03-18T06:16:04.894-07:00, From: Open To: ResolvedDate: 2011-06-24T05:36:53.042-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-2883,2011-03-17,"Date: 2011-03-17T08:35:01.137-07:00, From: Open To: ResolvedDate: 2011-03-17T09:19:59.435-07:00, From: Resolved To: Closed",0,4,111,2,-1
+FELIX-2882,2011-03-16,"Date: 2011-12-05T12:30:31.145-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:04.249-07:00, From: Resolved To: Closed",0,3,64,1,-1
+FELIX-2881,2011-03-16,"Date: 2011-12-05T12:35:35.692-08:00, From: Open To: ResolvedDate: 2013-09-28T10:40:01.462-07:00, From: Resolved To: Closed",0,3,220,2,-1
+FELIX-2880,2011-03-16,"Date: 2015-09-11T05:58:00.975-07:00, From: Open To: ResolvedDate: 2015-09-23T05:52:18.373-07:00, From: Resolved To: Closed",0,7,165,1,-2
+FELIX-2879,2011-03-16,"Date: 2011-03-24T08:49:57.899-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:47.307-08:00, From: Resolved To: Closed",0,4,87,1,-1
+FELIX-2878,2011-03-11,"Date: 2011-05-02T07:32:33.896-07:00, From: Open To: ResolvedDate: 2011-07-28T01:54:36.987-07:00, From: Resolved To: Closed",0,8,163,3,-1
+FELIX-2877,2011-03-10,"Date: 2011-03-10T02:55:25.744-08:00, From: Open To: Resolved",0,0,2,1,-1
+FELIX-2876,2011-03-09,"Date: 2011-03-09T02:03:36.768-08:00, From: Open To: ResolvedDate: 2011-03-09T02:40:52.966-08:00, From: Resolved To: ReopenedDate: 2011-03-09T05:13:04.337-08:00, From: Reopened To: ResolvedDate: 2011-03-13T05:55:51.793-07:00, From: Resolved To: Closed",1,4,82,1,-1
+FELIX-2875,2011-03-08,"Date: 2014-10-24T15:01:22.574-07:00, From: Open To: Resolved",0,6,380,3,-1
+FELIX-2874,2011-03-08,"Date: 2011-03-08T05:50:40.117-08:00, From: Open To: ResolvedDate: 2011-03-13T05:55:19.830-07:00, From: Resolved To: Closed",0,1,46,1,-1
+FELIX-2873,2011-03-08,"Date: 2011-06-16T07:46:01.766-07:00, From: Open To: ResolvedDate: 2011-06-24T05:36:51.575-07:00, From: Resolved To: Closed",0,4,226,2,-1
+FELIX-2872,2011-03-07,"Date: 2011-10-16T10:14:00.720-07:00, From: Open To: In ProgressDate: 2011-10-17T04:01:01.411-07:00, From: In Progress To: ResolvedDate: 2011-12-02T07:44:15.588-08:00, From: Resolved To: Closed",0,4,62,2,-1
+FELIX-2871,2011-03-04,"Date: 2014-02-12T06:27:46.638-08:00, From: Open To: ResolvedDate: 2015-08-01T02:22:44.329-07:00, From: Resolved To: Closed",0,4,138,1,-1
+FELIX-2870,2011-03-02,"Date: 2011-03-02T13:52:51.822-08:00, From: Open To: ResolvedDate: 2015-03-17T00:06:53.949-07:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-2869,2011-03-02,,0,0,2,1,-1
+FELIX-2868,2011-03-01,"Date: 2011-10-22T05:23:08.737-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:51.654-08:00, From: Resolved To: Closed",0,3,132,1,-3
+FELIX-2867,2011-03-01,"Date: 2011-10-22T02:44:13.376-07:00, From: Open To: ResolvedDate: 2012-11-20T03:00:52.174-08:00, From: Resolved To: Closed",0,2,38,1,-1
+FELIX-2866,2011-03-01,"Date: 2011-03-02T13:17:59.535-08:00, From: Open To: ResolvedDate: 2015-03-16T23:50:44.721-07:00, From: Resolved To: Closed",0,0,2,1,-1
+FELIX-2865,2011-03-01,"Date: 2011-06-24T05:35:30.782-07:00, From: Open To: Closed",0,1,52,1,-1
+FELIX-2864,2011-02-28,"Date: 2011-03-07T09:59:19.252-08:00, From: Open To: ResolvedDate: 2011-03-07T11:02:35.047-08:00, From: Resolved To: Closed",0,5,245,3,-2
+FELIX-2863,2011-02-28,"Date: 2011-02-28T07:10:17.315-08:00, From: Open To: ResolvedDate: 2011-03-09T01:27:26.855-08:00, From: Resolved To: ReopenedDate: 2011-03-09T02:19:11.992-08:00, From: Reopened To: ResolvedDate: 2011-03-13T05:55:20.416-07:00, From: Resolved To: Closed",1,3,48,1,-1
+FELIX-2862,2011-02-24,,0,0,2,1,-1
+FELIX-2861,2011-02-24,"Date: 2011-02-24T06:07:27.634-08:00, From: Open To: ResolvedDate: 2011-03-07T04:14:19.125-08:00, From: Resolved To: Closed",0,1,28,1,-1
+FELIX-2860,2011-02-23,"Date: 2011-02-24T01:39:43.107-08:00, From: Open To: ResolvedDate: 2012-11-20T03:00:51.449-08:00, From: Resolved To: Closed",0,3,126,3,-1
+FELIX-2859,2011-02-23,"Date: 2011-03-28T08:30:17.631-07:00, From: Open To: Closed",0,1,33,1,-1
+FELIX-2858,2011-02-23,"Date: 2011-03-28T08:29:48.644-07:00, From: Open To: Closed",0,3,76,1,-1
+FELIX-2856,2011-02-23,"Date: 2011-06-24T05:35:30.110-07:00, From: Open To: Closed",0,1,52,1,-1
+FELIX-2855,2011-02-22,"Date: 2011-09-07T06:12:55.022-07:00, From: Open To: ResolvedDate: 2012-11-22T22:54:48.566-08:00, From: Resolved To: Closed",0,3,46,1,-1
+FELIX-2854,2011-02-22,"Date: 2011-06-24T05:35:30.968-07:00, From: Open To: Closed",0,1,52,1,-1
+FELIX-2853,2011-02-22,"Date: 2011-03-04T06:22:12.865-08:00, From: Open To: ResolvedDate: 2011-03-13T05:55:52.049-07:00, From: Resolved To: Closed",0,1,39,1,-1
+FELIX-2852,2011-02-21,"Date: 2012-03-15T10:01:02.314-07:00, From: Open To: ResolvedDate: 2015-03-17T00:00:47.875-07:00, From: Resolved To: Closed",0,4,179,2,-2
+FELIX-2851,2011-02-18,"Date: 2011-02-21T01:28:13.233-08:00, From: Open To: Resolved",0,3,228,1,-2
+FELIX-2850,2011-02-18,"Date: 2011-02-21T01:27:46.765-08:00, From: Open To: Resolved",0,3,156,1,-1
+FELIX-2849,2011-02-17,"Date: 2011-02-21T01:27:35.790-08:00, From: Open To: Resolved",0,5,270,2,-1
+FELIX-2848,2011-02-17,"Date: 2011-02-17T23:49:23.729-08:00, From: Open To: ResolvedDate: 2015-03-17T00:00:47.273-07:00, From: Resolved To: Closed",0,2,47,1,-1
+FELIX-2847,2011-02-17,"Date: 2011-02-18T05:11:43.447-08:00, From: Open To: ResolvedDate: 2013-09-25T07:02:35.297-07:00, From: Resolved To: Closed",0,3,81,1,-1
+FELIX-2846,2011-02-16,,0,1,21,1,-1
+FELIX-2845,2011-02-16,"Date: 2011-02-16T07:54:32.998-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:32.205-08:00, From: Resolved To: Closed",0,2,30,2,-1
+FELIX-2844,2011-02-16,"Date: 2011-02-18T11:14:35.564-08:00, From: Open To: Closed",0,2,111,1,-1
+FELIX-2843,2011-02-15,"Date: 2011-02-16T08:30:00.125-08:00, From: Open To: ResolvedDate: 2015-03-17T00:00:47.064-07:00, From: Resolved To: Closed",0,2,87,1,-1
+FELIX-2842,2011-02-15,"Date: 2011-02-15T10:08:42.258-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:26.880-08:00, From: Resolved To: Closed",0,1,25,1,-1
+FELIX-2841,2011-02-15,"Date: 2011-02-15T12:57:07.899-08:00, From: Open To: ClosedDate: 2011-02-21T01:31:31.640-08:00, From: Closed To: ReopenedDate: 2011-02-21T01:34:26.347-08:00, From: Reopened To: Resolved",1,1,103,1,-2
+FELIX-2840,2011-02-15,"Date: 2011-02-15T08:01:25.899-08:00, From: Open To: ClosedDate: 2011-02-21T01:31:31.119-08:00, From: Closed To: ReopenedDate: 2011-02-21T01:33:43.904-08:00, From: Reopened To: Resolved",1,1,34,1,-1
+FELIX-2839,2011-02-13,"Date: 2011-12-17T11:16:07.489-08:00, From: Open To: Closed",0,4,328,1,-4
+FELIX-2838,2011-02-11,"Date: 2011-02-22T09:16:50.381-08:00, From: Open To: ResolvedDate: 2011-03-13T05:55:19.988-07:00, From: Resolved To: Closed",0,1,27,1,-1
+FELIX-2837,2011-02-11,"Date: 2011-02-11T05:04:31.354-08:00, From: Open To: Resolved",0,2,202,1,-3
+FELIX-2836,2011-02-10,"Date: 2011-02-10T08:46:11.381-08:00, From: Open To: ResolvedDate: 2011-03-07T04:14:26.033-08:00, From: Resolved To: Closed",0,1,22,1,-1
+FELIX-2835,2011-02-10,"Date: 2011-02-21T07:48:37.013-08:00, From: Open To: ResolvedDate: 2011-03-13T05:55:51.920-07:00, From: Resolved To: Closed",0,1,36,1,-1
+FELIX-2834,2011-02-10,"Date: 2011-02-16T22:57:30.315-08:00, From: Open To: ResolvedDate: 2013-02-04T04:34:26.483-08:00, From: Resolved To: Closed",0,3,117,1,-1
